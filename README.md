@@ -10,6 +10,11 @@ To do description
 ## Project directories 
 
     .
+    ├── datasets                # Synthetic and real-world event logs
+    │   ├── first_group_of_synthetic_logs
+    │   ├── second_group_of_synthetic_logs
+    │   └── real_world_logs
+    ├── results                 # Results in excel file
     ├── helpers                 # Helper scripts to pre-process log files
     ├── impl                    # Main implementation scripts
     ├── LICENSE
