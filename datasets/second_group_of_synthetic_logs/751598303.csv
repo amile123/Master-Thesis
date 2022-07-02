@@ -1,0 +1,1001 @@
+,ID,concept:name,Status
+0,0,"['security  question', 'enter  apple id  details', 'verify  password', 'verify  password', 'email', 'answer', 'security  question', 'date of  birth', 'security  question', 'password', 'email', 'enter  apple id  details', 'email', 'password', 'security  question', 'answer', 'email', 'verify  password']",Anomalous
+1,1,"['enter  apple id  details', 'verify  password', 'answer', 'date of  birth', 'security  question', 'password', 'email']",Normal
+2,2,"['enter  apple id  details', 'verify  password', 'answer', 'date of  birth', 'email', 'security  question', 'password']",Normal
+3,3,"['enter  apple id  details', 'password', 'verify  password', 'answer', 'date of  birth', 'email', 'password', 'security  question', 'enter  apple id  details']",Anomalous
+4,4,"['enter  apple id  details', 'answer', 'verify  password', 'answer', 'date of  birth', 'password', 'security  question', 'email']",Anomalous
+5,5,"['enter  apple id  details', 'verify  password', 'answer', 'date of  birth', 'password', 'email', 'security  question']",Normal
+6,6,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'security  question', 'email', 'date of  birth', 'password']",Anomalous
+7,7,"['enter  apple id  details', 'verify  password', 'answer', 'security  question', 'email', 'password', 'date of  birth']",Normal
+8,8,"['enter  apple id  details', 'verify  password', 'answer', 'enter  apple id  details', 'security  question', 'date of  birth', 'email', 'password']",Anomalous
+9,9,"['enter  apple id  details', 'verify  password', 'answer', 'security  question', 'date of  birth', 'password', 'security  question', 'email']",Anomalous
+10,10,"['enter  apple id  details', 'security  question', 'verify  password', 'answer', 'security  question', 'password', 'email', 'date of  birth', 'verify  password', 'date of  birth']",Anomalous
+11,11,"['enter  apple id  details', 'verify  password', 'answer', 'security  question', 'password', 'date of  birth', 'email']",Normal
+12,12,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'security  question', 'date of  birth', 'password']",Normal
+13,13,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'security  question', 'enter  apple id  details', 'password', 'date of  birth']",Anomalous
+14,14,"['enter  apple id  details', 'verify  password', 'answer', 'verify  password', 'email', 'date of  birth', 'security  question', 'answer', 'enter  apple id  details', 'password']",Anomalous
+15,15,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'date of  birth', 'password', 'security  question', 'security  question']",Anomalous
+16,16,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'password', 'security  question', 'date of  birth']",Normal
+17,17,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'password', 'date of  birth', 'security  question']",Normal
+18,18,"['enter  apple id  details', 'verify  password', 'answer', 'password', 'security  question', 'email', 'date of  birth']",Normal
+19,19,"['enter  apple id  details', 'enter  apple id  details', 'verify  password', 'answer', 'password', 'security  question', 'date of  birth', 'email']",Anomalous
+20,20,"['enter  apple id  details', 'verify  password', 'answer', 'password', 'email', 'security  question', 'date of  birth']",Normal
+21,21,"['enter  apple id  details', 'verify  password', 'answer', 'password', 'password', 'answer', 'email', 'date of  birth', 'security  question', 'date of  birth', 'security  question', 'email']",Anomalous
+22,22,"['enter  apple id  details', 'verify  password', 'verify  password', 'answer', 'password', 'date of  birth', 'security  question', 'email']",Anomalous
+23,23,"['enter  apple id  details', 'verify  password', 'answer', 'password', 'date of  birth', 'email', 'security  question']",Normal
+24,24,"['enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'answer', 'email', 'password']",Normal
+25,25,"['enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'answer', 'password', 'email']",Normal
+26,26,"['enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'email', 'answer', 'password']",Normal
+27,27,"['enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'email', 'password', 'answer', 'security  question']",Anomalous
+28,28,"['enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'password', 'answer', 'email']",Normal
+29,29,"['enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'password', 'email', 'answer']",Normal
+30,30,"['enter  apple id  details', 'verify  password', 'security  question', 'answer', 'email', 'date of  birth', 'password']",Normal
+31,31,"['enter  apple id  details', 'verify  password', 'security  question', 'answer', 'email', 'password', 'security  question', 'date of  birth']",Anomalous
+32,32,"['enter  apple id  details', 'verify  password', 'security  question', 'answer', 'date of  birth', 'email', 'answer', 'password']",Anomalous
+33,33,"['enter  apple id  details', 'verify  password', 'security  question', 'answer', 'date of  birth', 'password', 'email']",Normal
+34,34,"['enter  apple id  details', 'verify  password', 'security  question', 'answer', 'password', 'email', 'date of  birth']",Normal
+35,35,"['enter  apple id  details', 'verify  password', 'password', 'security  question', 'password', 'answer', 'password', 'date of  birth', 'email']",Anomalous
+36,36,"['enter  apple id  details', 'verify  password', 'security  question', 'email', 'answer', 'answer', 'email', 'date of  birth', 'password']",Anomalous
+37,37,"['enter  apple id  details', 'verify  password', 'security  question', 'email', 'answer', 'password', 'date of  birth']",Normal
+38,38,"['enter  apple id  details', 'verify  password', 'security  question', 'email', 'date of  birth', 'answer', 'password']",Normal
+39,39,"['enter  apple id  details', 'verify  password', 'answer', 'security  question', 'email', 'date of  birth', 'password', 'answer']",Anomalous
+40,40,"['enter  apple id  details', 'verify  password', 'security  question', 'email', 'password', 'answer', 'date of  birth']",Normal
+41,41,"['enter  apple id  details', 'verify  password', 'security  question', 'email', 'email', 'password', 'date of  birth', 'date of  birth', 'answer']",Anomalous
+42,42,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'answer', 'email', 'date of  birth']",Normal
+43,43,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'answer', 'date of  birth', 'email']",Normal
+44,44,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'answer', 'email', 'answer', 'email', 'security  question', 'date of  birth', 'answer']",Anomalous
+45,45,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'email', 'date of  birth', 'answer']",Normal
+46,46,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'date of  birth', 'answer', 'email']",Normal
+47,47,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'date of  birth', 'email', 'answer', 'password']",Anomalous
+48,48,"['date of  birth', 'enter  apple id  details', 'answer', 'password', 'verify  password', 'email', 'password', 'security  question', 'answer', 'security  question', 'email', 'date of  birth']",Anomalous
+49,49,"['enter  apple id  details', 'verify  password', 'password', 'answer', 'security  question', 'date of  birth', 'date of  birth', 'email']",Anomalous
+50,50,"['enter  apple id  details', 'verify  password', 'enter  apple id  details', 'password', 'answer', 'email', 'security  question', 'date of  birth']",Anomalous
+51,51,"['enter  apple id  details', 'verify  password', 'password', 'answer', 'email', 'date of  birth', 'security  question']",Normal
+52,52,"['enter  apple id  details', 'verify  password', 'password', 'answer', 'date of  birth', 'security  question', 'email']",Normal
+53,53,"['enter  apple id  details', 'verify  password', 'password', 'answer', 'date of  birth', 'email', 'security  question']",Normal
+54,54,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'answer', 'date of  birth', 'security  question', 'email', 'password', 'security  question', 'answer', 'email', 'date of  birth']",Anomalous
+55,55,"['enter  apple id  details', 'verify  password', 'password', 'security  question', 'answer', 'date of  birth', 'email']",Normal
+56,56,"['answer', 'enter  apple id  details', 'verify  password', 'password', 'security  question', 'email', 'answer', 'date of  birth']",Anomalous
+57,57,"['enter  apple id  details', 'verify  password', 'password', 'security  question', 'email', 'date of  birth', 'answer']",Normal
+58,58,"['enter  apple id  details', 'verify  password', 'password', 'security  question', 'date of  birth', 'answer', 'email']",Normal
+59,59,"['enter  apple id  details', 'verify  password', 'password', 'security  question', 'security  question', 'date of  birth', 'email', 'answer']",Anomalous
+60,60,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'answer', 'security  question', 'email']",Normal
+61,61,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'answer', 'email', 'security  question']",Normal
+62,62,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'security  question', 'answer', 'email']",Normal
+63,63,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'security  question', 'email', 'answer']",Normal
+64,64,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'email', 'answer', 'security  question']",Normal
+65,65,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'email', 'security  question', 'answer']",Normal
+66,66,"['enter  apple id  details', 'verify  password', 'password', 'email', 'answer', 'security  question', 'date of  birth', 'password']",Anomalous
+67,67,"['enter  apple id  details', 'verify  password', 'password', 'email', 'answer', 'date of  birth', 'security  question']",Normal
+68,68,"['enter  apple id  details', 'verify  password', 'password', 'email', 'security  question', 'answer', 'date of  birth']",Normal
+69,69,"['enter  apple id  details', 'verify  password', 'password', 'email', 'security  question', 'date of  birth', 'answer']",Normal
+70,70,"['enter  apple id  details', 'verify  password', 'password', 'enter  apple id  details', 'email', 'date of  birth', 'answer', 'security  question', 'verify  password']",Anomalous
+71,71,"['enter  apple id  details', 'verify  password', 'date of  birth', 'password', 'email', 'date of  birth', 'security  question', 'answer']",Anomalous
+72,72,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'answer', 'security  question', 'password']",Normal
+73,73,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'answer', 'password', 'security  question']",Normal
+74,74,"['enter  apple id  details', 'enter  apple id  details', 'verify  password', 'enter  apple id  details', 'email', 'date of  birth', 'security  question', 'answer', 'password']",Anomalous
+75,75,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'security  question', 'password', 'answer']",Normal
+76,76,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'password', 'answer', 'security  question']",Normal
+77,77,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'password', 'security  question', 'answer']",Normal
+78,78,"['enter  apple id  details', 'verify  password', 'email', 'answer', 'security  question', 'date of  birth', 'password']",Normal
+79,79,"['enter  apple id  details', 'verify  password', 'email', 'email', 'answer', 'security  question', 'password', 'date of  birth', 'date of  birth']",Anomalous
+80,80,"['enter  apple id  details', 'verify  password', 'email', 'answer', 'date of  birth', 'security  question', 'password']",Normal
+81,81,"['enter  apple id  details', 'verify  password', 'email', 'answer', 'date of  birth', 'password', 'security  question']",Normal
+82,82,"['enter  apple id  details', 'enter  apple id  details', 'verify  password', 'email', 'answer', 'password', 'security  question', 'date of  birth']",Anomalous
+83,83,"['enter  apple id  details', 'verify  password', 'email', 'enter  apple id  details', 'answer', 'password', 'date of  birth', 'security  question']",Anomalous
+84,84,"['enter  apple id  details', 'verify  password', 'email', 'security  question', 'answer', 'date of  birth', 'password']",Normal
+85,85,"['enter  apple id  details', 'verify  password', 'email', 'security  question', 'answer', 'password', 'date of  birth']",Normal
+86,86,"['enter  apple id  details', 'answer', 'verify  password', 'verify  password', 'email', 'security  question', 'date of  birth', 'email', 'answer', 'password', 'password']",Anomalous
+87,87,"['enter  apple id  details', 'verify  password', 'email', 'security  question', 'date of  birth', 'password', 'answer']",Normal
+88,88,"['enter  apple id  details', 'verify  password', 'verify  password', 'email', 'security  question', 'password', 'date of  birth', 'answer', 'date of  birth']",Anomalous
+89,89,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'security  question', 'password', 'date of  birth', 'answer']",Anomalous
+90,90,"['enter  apple id  details', 'verify  password', 'email', 'password', 'answer', 'security  question', 'date of  birth']",Normal
+91,91,"['enter  apple id  details', 'verify  password', 'email', 'answer', 'password', 'answer', 'date of  birth', 'date of  birth', 'security  question']",Anomalous
+92,92,"['enter  apple id  details', 'verify  password', 'email', 'password', 'security  question', 'answer', 'date of  birth']",Normal
+93,93,"['enter  apple id  details', 'verify  password', 'email', 'password', 'security  question', 'date of  birth', 'answer']",Normal
+94,94,"['enter  apple id  details', 'verify  password', 'email', 'password', 'date of  birth', 'answer', 'security  question']",Normal
+95,95,"['answer', 'enter  apple id  details', 'verify  password', 'email', 'password', 'date of  birth', 'security  question', 'answer']",Anomalous
+96,96,"['enter  apple id  details', 'verify  password', 'date of  birth', 'answer', 'security  question', 'email', 'password']",Normal
+97,97,"['enter  apple id  details', 'verify  password', 'date of  birth', 'answer', 'security  question', 'password', 'email', 'date of  birth']",Anomalous
+98,98,"['enter  apple id  details', 'verify  password', 'date of  birth', 'answer', 'security  question', 'email', 'security  question', 'password']",Anomalous
+99,99,"['enter  apple id  details', 'verify  password', 'date of  birth', 'answer', 'email', 'password', 'security  question']",Normal
+100,100,"['enter  apple id  details', 'verify  password', 'date of  birth', 'answer', 'password', 'security  question', 'email']",Normal
+101,101,"['enter  apple id  details', 'verify  password', 'date of  birth', 'answer', 'password', 'email', 'security  question']",Normal
+102,102,"['date of  birth', 'enter  apple id  details', 'verify  password', 'password', 'security  question', 'date of  birth', 'security  question', 'answer', 'email', 'password']",Anomalous
+103,103,"['enter  apple id  details', 'verify  password', 'date of  birth', 'security  question', 'answer', 'password', 'email']",Normal
+104,104,"['password', 'enter  apple id  details', 'verify  password', 'date of  birth', 'security  question', 'email', 'answer', 'password']",Anomalous
+105,105,"['enter  apple id  details', 'verify  password', 'date of  birth', 'security  question', 'email', 'password', 'answer']",Normal
+106,106,"['enter  apple id  details', 'verify  password', 'date of  birth', 'security  question', 'password', 'answer', 'email']",Normal
+107,107,"['enter  apple id  details', 'verify  password', 'date of  birth', 'security  question', 'email', 'password', 'email', 'answer']",Anomalous
+108,108,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'email', 'password', 'answer', 'security  question', 'email']",Anomalous
+109,109,"['enter  apple id  details', 'verify  password', 'date of  birth', 'password', 'answer', 'email', 'security  question']",Normal
+110,110,"['email', 'enter  apple id  details', 'verify  password', 'date of  birth', 'password', 'security  question', 'answer', 'email']",Anomalous
+111,111,"['enter  apple id  details', 'verify  password', 'date of  birth', 'password', 'security  question', 'email', 'answer']",Normal
+112,112,"['email', 'enter  apple id  details', 'verify  password', 'date of  birth', 'password', 'email', 'answer', 'security  question']",Anomalous
+113,113,"['enter  apple id  details', 'verify  password', 'answer', 'date of  birth', 'password', 'date of  birth', 'email', 'date of  birth', 'security  question', 'security  question', 'answer', 'verify  password']",Anomalous
+114,114,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'email', 'answer', 'security  question', 'password']",Anomalous
+115,115,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'answer', 'password', 'security  question']",Normal
+116,116,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'security  question', 'answer', 'password']",Normal
+117,117,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'verify  password', 'security  question', 'password', 'answer']",Anomalous
+118,118,"['enter  apple id  details', 'verify  password', 'date of  birth', 'enter  apple id  details', 'email', 'password', 'answer', 'security  question']",Anomalous
+119,119,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'password', 'security  question', 'answer']",Normal
+120,120,"['enter  apple id  details', 'answer', 'verify  password', 'date of  birth', 'security  question', 'email', 'password']",Normal
+121,121,"['enter  apple id  details', 'answer', 'verify  password', 'date of  birth', 'security  question', 'password', 'email']",Normal
+122,122,"['enter  apple id  details', 'answer', 'verify  password', 'date of  birth', 'email', 'security  question', 'verify  password', 'password']",Anomalous
+123,123,"['enter  apple id  details', 'enter  apple id  details', 'answer', 'verify  password', 'date of  birth', 'email', 'password', 'security  question']",Anomalous
+124,124,"['enter  apple id  details', 'answer', 'verify  password', 'date of  birth', 'password', 'security  question', 'email']",Normal
+125,125,"['date of  birth', 'enter  apple id  details', 'answer', 'verify  password', 'date of  birth', 'password', 'answer', 'verify  password', 'email', 'security  question']",Anomalous
+126,126,"['enter  apple id  details', 'answer', 'verify  password', 'security  question', 'email', 'date of  birth', 'date of  birth', 'password']",Anomalous
+127,127,"['enter  apple id  details', 'answer', 'verify  password', 'security  question', 'email', 'password', 'date of  birth']",Normal
+128,128,"['enter  apple id  details', 'answer', 'verify  password', 'enter  apple id  details', 'security  question', 'date of  birth', 'email', 'password']",Anomalous
+129,129,"['enter  apple id  details', 'answer', 'verify  password', 'security  question', 'date of  birth', 'password', 'email']",Normal
+130,130,"['enter  apple id  details', 'answer', 'verify  password', 'verify  password', 'security  question', 'password', 'email', 'date of  birth']",Anomalous
+131,131,"['enter  apple id  details', 'answer', 'verify  password', 'security  question', 'password', 'date of  birth', 'email']",Normal
+132,132,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'security  question', 'date of  birth', 'password']",Normal
+133,133,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'security  question', 'password', 'date of  birth']",Normal
+134,134,"['enter  apple id  details', 'answer', 'verify  password', 'password', 'email', 'date of  birth', 'security  question', 'password']",Anomalous
+135,135,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'date of  birth', 'password', 'security  question']",Normal
+136,136,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'password', 'security  question', 'date of  birth']",Normal
+137,137,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'email', 'password', 'date of  birth', 'security  question']",Anomalous
+138,138,"['enter  apple id  details', 'answer', 'verify  password', 'password', 'security  question', 'email', 'date of  birth']",Normal
+139,139,"['enter  apple id  details', 'answer', 'verify  password', 'password', 'security  question', 'date of  birth', 'email']",Normal
+140,140,"['enter  apple id  details', 'answer', 'verify  password', 'password', 'email', 'security  question', 'password', 'answer', 'answer', 'date of  birth']",Anomalous
+141,141,"['enter  apple id  details', 'answer', 'verify  password', 'password', 'email', 'date of  birth', 'security  question']",Normal
+142,142,"['enter  apple id  details', 'answer', 'verify  password', 'password', 'date of  birth', 'security  question', 'email']",Normal
+143,143,"['enter  apple id  details', 'answer', 'verify  password', 'password', 'date of  birth', 'email', 'security  question', 'date of  birth']",Anomalous
+144,144,"['enter  apple id  details', 'answer', 'security  question', 'password', 'email', 'date of  birth', 'verify  password']",Normal
+145,145,"['enter  apple id  details', 'answer', 'security  question', 'password', 'email', 'verify  password', 'date of  birth']",Normal
+146,146,"['enter  apple id  details', 'answer', 'security  question', 'security  question', 'password', 'date of  birth', 'date of  birth', 'email', 'verify  password']",Anomalous
+147,147,"['enter  apple id  details', 'answer', 'security  question', 'password', 'date of  birth', 'verify  password', 'verify  password', 'email']",Anomalous
+148,148,"['enter  apple id  details', 'answer', 'security  question', 'password', 'verify  password', 'email', 'date of  birth']",Normal
+149,149,"['answer', 'enter  apple id  details', 'answer', 'answer', 'security  question', 'password', 'verify  password', 'date of  birth', 'email']",Anomalous
+150,150,"['enter  apple id  details', 'answer', 'security  question', 'email', 'password', 'date of  birth', 'verify  password']",Normal
+151,151,"['enter  apple id  details', 'answer', 'password', 'security  question', 'email', 'password', 'verify  password', 'date of  birth', 'date of  birth', 'date of  birth']",Anomalous
+152,152,"['enter  apple id  details', 'answer', 'security  question', 'email', 'date of  birth', 'password', 'verify  password']",Normal
+153,153,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'email', 'date of  birth', 'verify  password', 'password']",Anomalous
+154,154,"['enter  apple id  details', 'answer', 'security  question', 'email', 'verify  password', 'date of  birth', 'enter  apple id  details', 'password']",Anomalous
+155,155,"['enter  apple id  details', 'answer', 'security  question', 'email', 'verify  password', 'password', 'date of  birth']",Normal
+156,156,"['enter  apple id  details', 'answer', 'security  question', 'date of  birth', 'password', 'email', 'verify  password']",Normal
+157,157,"['enter  apple id  details', 'answer', 'security  question', 'date of  birth', 'password', 'verify  password', 'email']",Normal
+158,158,"['enter  apple id  details', 'security  question', 'answer', 'security  question', 'date of  birth', 'email', 'password', 'verify  password']",Anomalous
+159,159,"['enter  apple id  details', 'answer', 'security  question', 'date of  birth', 'email', 'verify  password', 'verify  password', 'password', 'enter  apple id  details']",Anomalous
+160,160,"['enter  apple id  details', 'answer', 'security  question', 'date of  birth', 'verify  password', 'email', 'password']",Normal
+161,161,"['enter  apple id  details', 'password', 'answer', 'security  question', 'date of  birth', 'verify  password', 'password', 'email']",Anomalous
+162,162,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'email', 'date of  birth', 'password']",Normal
+163,163,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'email', 'password', 'date of  birth']",Normal
+164,164,"['enter  apple id  details', 'answer', 'answer', 'security  question', 'verify  password', 'date of  birth', 'email', 'password']",Anomalous
+165,165,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'date of  birth', 'password', 'security  question', 'email']",Anomalous
+166,166,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'password', 'email', 'date of  birth']",Normal
+167,167,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'password', 'date of  birth', 'email']",Normal
+168,168,"['enter  apple id  details', 'answer', 'password', 'date of  birth', 'answer', 'date of  birth', 'security  question', 'enter  apple id  details', 'email', 'verify  password']",Anomalous
+169,169,"['enter  apple id  details', 'answer', 'password', 'date of  birth', 'security  question', 'verify  password', 'email']",Normal
+170,170,"['security  question', 'enter  apple id  details', 'date of  birth', 'answer', 'password', 'date of  birth', 'email', 'security  question', 'security  question', 'verify  password']",Anomalous
+171,171,"['enter  apple id  details', 'answer', 'password', 'date of  birth', 'email', 'verify  password', 'security  question']",Normal
+172,172,"['enter  apple id  details', 'answer', 'password', 'date of  birth', 'verify  password', 'security  question', 'email']",Normal
+173,173,"['date of  birth', 'verify  password', 'enter  apple id  details', 'answer', 'password', 'date of  birth', 'verify  password', 'email', 'security  question', 'security  question']",Anomalous
+174,174,"['enter  apple id  details', 'answer', 'password', 'security  question', 'email', 'date of  birth', 'verify  password']",Normal
+175,175,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'security  question', 'date of  birth', 'email', 'verify  password', 'date of  birth']",Anomalous
+176,176,"['enter  apple id  details', 'date of  birth', 'answer', 'password', 'security  question', 'date of  birth', 'email', 'verify  password']",Anomalous
+177,177,"['enter  apple id  details', 'email', 'answer', 'password', 'security  question', 'date of  birth', 'verify  password', 'email']",Anomalous
+178,178,"['enter  apple id  details', 'answer', 'security  question', 'password', 'security  question', 'date of  birth', 'verify  password', 'email', 'date of  birth', 'date of  birth']",Anomalous
+179,179,"['enter  apple id  details', 'answer', 'password', 'security  question', 'verify  password', 'date of  birth', 'date of  birth', 'email']",Anomalous
+180,180,"['enter  apple id  details', 'answer', 'password', 'email', 'security  question', 'date of  birth', 'verify  password']",Normal
+181,181,"['enter  apple id  details', 'answer', 'password', 'security  question', 'email', 'security  question', 'verify  password', 'date of  birth']",Anomalous
+182,182,"['enter  apple id  details', 'answer', 'password', 'email', 'date of  birth', 'security  question', 'verify  password']",Normal
+183,183,"['enter  apple id  details', 'enter  apple id  details', 'answer', 'password', 'email', 'date of  birth', 'verify  password', 'answer', 'security  question', 'email', 'security  question']",Anomalous
+184,184,"['enter  apple id  details', 'answer', 'password', 'email', 'verify  password', 'security  question', 'date of  birth']",Normal
+185,185,"['enter  apple id  details', 'answer', 'password', 'email', 'verify  password', 'date of  birth', 'security  question', 'enter  apple id  details']",Anomalous
+186,186,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'security  question', 'email', 'date of  birth']",Normal
+187,187,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'security  question', 'answer', 'date of  birth', 'email']",Anomalous
+188,188,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'email', 'security  question', 'date of  birth']",Normal
+189,189,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'email', 'date of  birth', 'security  question']",Normal
+190,190,"['verify  password', 'enter  apple id  details', 'answer', 'password', 'verify  password', 'date of  birth', 'security  question', 'email']",Anomalous
+191,191,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'password', 'date of  birth', 'email', 'security  question']",Anomalous
+192,192,"['enter  apple id  details', 'answer', 'email', 'password', 'security  question', 'date of  birth', 'verify  password']",Normal
+193,193,"['enter  apple id  details', 'answer', 'email', 'password', 'security  question', 'verify  password', 'date of  birth']",Normal
+194,194,"['enter  apple id  details', 'answer', 'email', 'password', 'date of  birth', 'security  question', 'verify  password']",Normal
+195,195,"['enter  apple id  details', 'answer', 'email', 'password', 'date of  birth', 'verify  password', 'security  question']",Normal
+196,196,"['enter  apple id  details', 'answer', 'email', 'password', 'verify  password', 'security  question', 'date of  birth']",Normal
+197,197,"['enter  apple id  details', 'answer', 'email', 'password', 'password', 'verify  password', 'date of  birth', 'security  question', 'answer']",Anomalous
+198,198,"['enter  apple id  details', 'answer', 'email', 'security  question', 'password', 'date of  birth', 'verify  password']",Normal
+199,199,"['enter  apple id  details', 'answer', 'email', 'security  question', 'password', 'verify  password', 'email', 'date of  birth']",Anomalous
+200,200,"['enter  apple id  details', 'answer', 'email', 'security  question', 'date of  birth', 'password', 'verify  password']",Normal
+201,201,"['enter  apple id  details', 'answer', 'email', 'security  question', 'date of  birth', 'verify  password', 'password']",Normal
+202,202,"['enter  apple id  details', 'answer', 'email', 'security  question', 'enter  apple id  details', 'verify  password', 'date of  birth', 'password']",Anomalous
+203,203,"['enter  apple id  details', 'answer', 'email', 'security  question', 'verify  password', 'password', 'date of  birth']",Normal
+204,204,"['answer', 'enter  apple id  details', 'answer', 'email', 'date of  birth', 'password', 'security  question', 'answer', 'verify  password']",Anomalous
+205,205,"['enter  apple id  details', 'answer', 'email', 'date of  birth', 'password', 'verify  password', 'security  question']",Normal
+206,206,"['enter  apple id  details', 'answer', 'email', 'date of  birth', 'security  question', 'enter  apple id  details', 'password', 'verify  password', 'date of  birth']",Anomalous
+207,207,"['email', 'enter  apple id  details', 'date of  birth', 'answer', 'password', 'email', 'date of  birth', 'security  question', 'verify  password', 'password', 'date of  birth']",Anomalous
+208,208,"['password', 'enter  apple id  details', 'password', 'answer', 'email', 'date of  birth', 'verify  password', 'security  question', 'password']",Anomalous
+209,209,"['answer', 'enter  apple id  details', 'answer', 'email', 'date of  birth', 'verify  password', 'password', 'security  question', 'enter  apple id  details', 'security  question']",Anomalous
+210,210,"['enter  apple id  details', 'answer', 'security  question', 'email', 'verify  password', 'security  question', 'date of  birth', 'password']",Anomalous
+211,211,"['enter  apple id  details', 'enter  apple id  details', 'answer', 'email', 'verify  password', 'security  question', 'password', 'date of  birth']",Anomalous
+212,212,"['enter  apple id  details', 'answer', 'email', 'verify  password', 'date of  birth', 'security  question', 'password']",Normal
+213,213,"['enter  apple id  details', 'answer', 'email', 'verify  password', 'date of  birth', 'password', 'security  question']",Normal
+214,214,"['enter  apple id  details', 'answer', 'email', 'verify  password', 'password', 'security  question', 'date of  birth']",Normal
+215,215,"['enter  apple id  details', 'answer', 'email', 'verify  password', 'password', 'date of  birth', 'security  question']",Normal
+216,216,"['enter  apple id  details', 'answer', 'date of  birth', 'password', 'security  question', 'email', 'verify  password']",Normal
+217,217,"['verify  password', 'enter  apple id  details', 'answer', 'date of  birth', 'password', 'security  question', 'verify  password', 'email', 'email', 'date of  birth']",Anomalous
+218,218,"['enter  apple id  details', 'answer', 'date of  birth', 'password', 'email', 'security  question', 'verify  password']",Normal
+219,219,"['enter  apple id  details', 'answer', 'date of  birth', 'password', 'email', 'verify  password', 'security  question']",Normal
+220,220,"['enter  apple id  details', 'answer', 'date of  birth', 'password', 'verify  password', 'security  question', 'email']",Normal
+221,221,"['enter  apple id  details', 'answer', 'date of  birth', 'password', 'verify  password', 'email', 'security  question']",Normal
+222,222,"['enter  apple id  details', 'answer', 'date of  birth', 'security  question', 'password', 'email', 'verify  password', 'answer']",Anomalous
+223,223,"['enter  apple id  details', 'security  question', 'answer', 'security  question', 'date of  birth', 'security  question', 'password', 'email', 'verify  password', 'email', 'password', 'date of  birth']",Anomalous
+224,224,"['enter  apple id  details', 'answer', 'date of  birth', 'security  question', 'email', 'password', 'verify  password']",Normal
+225,225,"['enter  apple id  details', 'answer', 'date of  birth', 'security  question', 'email', 'verify  password', 'verify  password', 'password', 'security  question']",Anomalous
+226,226,"['enter  apple id  details', 'answer', 'date of  birth', 'security  question', 'verify  password', 'email', 'password']",Normal
+227,227,"['enter  apple id  details', 'answer', 'date of  birth', 'security  question', 'verify  password', 'password', 'email', 'security  question']",Anomalous
+228,228,"['enter  apple id  details', 'answer', 'date of  birth', 'email', 'password', 'security  question', 'verify  password']",Normal
+229,229,"['enter  apple id  details', 'answer', 'date of  birth', 'email', 'password', 'verify  password', 'security  question']",Normal
+230,230,"['enter  apple id  details', 'answer', 'email', 'date of  birth', 'email', 'security  question', 'password', 'verify  password']",Anomalous
+231,231,"['enter  apple id  details', 'security  question', 'answer', 'verify  password', 'date of  birth', 'email', 'security  question', 'verify  password', 'password']",Anomalous
+232,232,"['enter  apple id  details', 'answer', 'date of  birth', 'email', 'verify  password', 'security  question', 'password']",Normal
+233,233,"['enter  apple id  details', 'answer', 'date of  birth', 'email', 'verify  password', 'password', 'security  question']",Normal
+234,234,"['enter  apple id  details', 'answer', 'date of  birth', 'verify  password', 'security  question', 'email', 'password']",Normal
+235,235,"['enter  apple id  details', 'answer', 'security  question', 'date of  birth', 'verify  password', 'security  question', 'password', 'email']",Anomalous
+236,236,"['enter  apple id  details', 'answer', 'date of  birth', 'verify  password', 'email', 'security  question', 'password']",Normal
+237,237,"['enter  apple id  details', 'answer', 'date of  birth', 'verify  password', 'email', 'password', 'security  question']",Normal
+238,238,"['enter  apple id  details', 'answer', 'date of  birth', 'verify  password', 'password', 'security  question', 'email']",Normal
+239,239,"['enter  apple id  details', 'answer', 'date of  birth', 'verify  password', 'password', 'email', 'security  question']",Normal
+240,240,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'answer', 'email', 'password']",Normal
+241,241,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'email', 'security  question', 'answer', 'password', 'email']",Anomalous
+242,242,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'email', 'answer', 'password']",Normal
+243,243,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'email', 'password', 'answer']",Normal
+244,244,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'password', 'answer', 'email']",Normal
+245,245,"['password', 'enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'password', 'email', 'answer']",Anomalous
+246,246,"['enter  apple id  details', 'security  question', 'verify  password', 'answer', 'email', 'date of  birth', 'password']",Normal
+247,247,"['enter  apple id  details', 'security  question', 'verify  password', 'answer', 'email', 'password', 'date of  birth']",Normal
+248,248,"['email', 'enter  apple id  details', 'security  question', 'verify  password', 'answer', 'date of  birth', 'answer', 'verify  password', 'email', 'enter  apple id  details', 'password', 'verify  password']",Anomalous
+249,249,"['enter  apple id  details', 'security  question', 'answer', 'verify  password', 'answer', 'date of  birth', 'password', 'email']",Anomalous
+250,250,"['enter  apple id  details', 'security  question', 'verify  password', 'answer', 'password', 'email', 'date of  birth']",Normal
+251,251,"['enter  apple id  details', 'security  question', 'verify  password', 'answer', 'password', 'date of  birth', 'email']",Normal
+252,252,"['enter  apple id  details', 'security  question', 'verify  password', 'email', 'answer', 'date of  birth', 'password']",Normal
+253,253,"['enter  apple id  details', 'security  question', 'verify  password', 'enter  apple id  details', 'email', 'answer', 'password', 'date of  birth']",Anomalous
+254,254,"['enter  apple id  details', 'security  question', 'verify  password', 'email', 'date of  birth', 'answer', 'verify  password', 'password']",Anomalous
+255,255,"['enter  apple id  details', 'security  question', 'verify  password', 'email', 'date of  birth', 'password', 'answer']",Normal
+256,256,"['enter  apple id  details', 'security  question', 'verify  password', 'email', 'password', 'answer', 'date of  birth']",Normal
+257,257,"['answer', 'enter  apple id  details', 'security  question', 'verify  password', 'email', 'password', 'date of  birth', 'answer']",Anomalous
+258,258,"['enter  apple id  details', 'security  question', 'verify  password', 'password', 'answer', 'email', 'date of  birth']",Normal
+259,259,"['enter  apple id  details', 'enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'password', 'date of  birth', 'answer', 'date of  birth', 'email', 'email', 'email', 'password']",Anomalous
+260,260,"['enter  apple id  details', 'security  question', 'verify  password', 'password', 'email', 'answer', 'date of  birth']",Normal
+261,261,"['enter  apple id  details', 'security  question', 'security  question', 'password', 'verify  password', 'password', 'email', 'answer', 'date of  birth', 'answer']",Anomalous
+262,262,"['enter  apple id  details', 'security  question', 'verify  password', 'password', 'date of  birth', 'answer', 'email']",Normal
+263,263,"['enter  apple id  details', 'date of  birth', 'security  question', 'verify  password', 'password', 'date of  birth', 'email', 'answer']",Anomalous
+264,264,"['enter  apple id  details', 'security  question', 'answer', 'password', 'email', 'date of  birth', 'verify  password']",Normal
+265,265,"['enter  apple id  details', 'security  question', 'answer', 'password', 'email', 'verify  password', 'date of  birth']",Normal
+266,266,"['enter  apple id  details', 'security  question', 'answer', 'password', 'date of  birth', 'email', 'verify  password']",Normal
+267,267,"['enter  apple id  details', 'security  question', 'answer', 'password', 'date of  birth', 'verify  password', 'email']",Normal
+268,268,"['email', 'enter  apple id  details', 'security  question', 'answer', 'password', 'date of  birth', 'answer', 'verify  password', 'email', 'date of  birth', 'answer']",Anomalous
+269,269,"['enter  apple id  details', 'security  question', 'answer', 'password', 'verify  password', 'date of  birth', 'email']",Normal
+270,270,"['enter  apple id  details', 'security  question', 'answer', 'email', 'password', 'date of  birth', 'verify  password']",Normal
+271,271,"['enter  apple id  details', 'enter  apple id  details', 'security  question', 'answer', 'email', 'password', 'date of  birth', 'verify  password', 'date of  birth']",Anomalous
+272,272,"['enter  apple id  details', 'security  question', 'answer', 'email', 'date of  birth', 'password', 'verify  password']",Normal
+273,273,"['enter  apple id  details', 'security  question', 'answer', 'email', 'date of  birth', 'verify  password', 'password']",Normal
+274,274,"['password', 'enter  apple id  details', 'security  question', 'answer', 'email', 'verify  password', 'date of  birth', 'password']",Anomalous
+275,275,"['enter  apple id  details', 'security  question', 'answer', 'email', 'verify  password', 'password', 'date of  birth']",Normal
+276,276,"['enter  apple id  details', 'security  question', 'answer', 'date of  birth', 'password', 'email', 'verify  password']",Normal
+277,277,"['enter  apple id  details', 'security  question', 'answer', 'date of  birth', 'security  question', 'password', 'verify  password', 'email']",Anomalous
+278,278,"['enter  apple id  details', 'enter  apple id  details', 'security  question', 'answer', 'date of  birth', 'email', 'password', 'verify  password', 'password']",Anomalous
+279,279,"['enter  apple id  details', 'security  question', 'answer', 'date of  birth', 'email', 'verify  password', 'password']",Normal
+280,280,"['enter  apple id  details', 'security  question', 'answer', 'date of  birth', 'verify  password', 'email', 'answer', 'password']",Anomalous
+281,281,"['enter  apple id  details', 'security  question', 'answer', 'date of  birth', 'verify  password', 'password', 'email']",Normal
+282,282,"['enter  apple id  details', 'security  question', 'verify  password', 'answer', 'verify  password', 'email', 'date of  birth', 'password']",Anomalous
+283,283,"['enter  apple id  details', 'security  question', 'answer', 'verify  password', 'email', 'password', 'date of  birth']",Normal
+284,284,"['enter  apple id  details', 'security  question', 'answer', 'verify  password', 'date of  birth', 'email', 'password']",Normal
+285,285,"['enter  apple id  details', 'security  question', 'security  question', 'answer', 'verify  password', 'date of  birth', 'password', 'email']",Anomalous
+286,286,"['enter  apple id  details', 'security  question', 'answer', 'verify  password', 'password', 'email', 'date of  birth']",Normal
+287,287,"['enter  apple id  details', 'security  question', 'answer', 'verify  password', 'password', 'date of  birth', 'email']",Normal
+288,288,"['enter  apple id  details', 'security  question', 'password', 'date of  birth', 'answer', 'email', 'verify  password']",Normal
+289,289,"['enter  apple id  details', 'security  question', 'date of  birth', 'password', 'date of  birth', 'answer', 'verify  password', 'email']",Anomalous
+290,290,"['answer', 'enter  apple id  details', 'security  question', 'password', 'date of  birth', 'email', 'answer', 'verify  password']",Anomalous
+291,291,"['enter  apple id  details', 'security  question', 'password', 'date of  birth', 'enter  apple id  details', 'email', 'verify  password', 'date of  birth', 'enter  apple id  details', 'verify  password', 'answer']",Anomalous
+292,292,"['enter  apple id  details', 'security  question', 'password', 'date of  birth', 'security  question', 'verify  password', 'answer', 'email']",Anomalous
+293,293,"['enter  apple id  details', 'security  question', 'password', 'date of  birth', 'verify  password', 'email', 'answer']",Normal
+294,294,"['enter  apple id  details', 'security  question', 'password', 'answer', 'email', 'date of  birth', 'verify  password']",Normal
+295,295,"['enter  apple id  details', 'security  question', 'password', 'answer', 'email', 'verify  password', 'date of  birth']",Normal
+296,296,"['enter  apple id  details', 'security  question', 'password', 'answer', 'date of  birth', 'email', 'verify  password']",Normal
+297,297,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'answer', 'enter  apple id  details', 'date of  birth', 'date of  birth', 'verify  password', 'email', 'email']",Anomalous
+298,298,"['enter  apple id  details', 'security  question', 'password', 'answer', 'verify  password', 'email', 'date of  birth']",Normal
+299,299,"['verify  password', 'verify  password', 'enter  apple id  details', 'security  question', 'password', 'answer', 'verify  password', 'date of  birth', 'email']",Anomalous
+300,300,"['enter  apple id  details', 'enter  apple id  details', 'security  question', 'password', 'email', 'enter  apple id  details', 'enter  apple id  details', 'answer', 'date of  birth', 'email', 'verify  password']",Anomalous
+301,301,"['enter  apple id  details', 'date of  birth', 'security  question', 'password', 'email', 'answer', 'verify  password', 'date of  birth']",Anomalous
+302,302,"['enter  apple id  details', 'security  question', 'password', 'email', 'date of  birth', 'answer', 'verify  password']",Normal
+303,303,"['enter  apple id  details', 'security  question', 'password', 'email', 'date of  birth', 'verify  password', 'answer']",Normal
+304,304,"['enter  apple id  details', 'security  question', 'password', 'email', 'verify  password', 'answer', 'date of  birth']",Normal
+305,305,"['enter  apple id  details', 'security  question', 'password', 'email', 'verify  password', 'date of  birth', 'answer']",Normal
+306,306,"['enter  apple id  details', 'security  question', 'password', 'verify  password', 'answer', 'email', 'date of  birth']",Normal
+307,307,"['enter  apple id  details', 'security  question', 'security  question', 'password', 'verify  password', 'answer', 'date of  birth', 'email']",Anomalous
+308,308,"['enter  apple id  details', 'security  question', 'password', 'verify  password', 'email', 'answer', 'date of  birth']",Normal
+309,309,"['enter  apple id  details', 'security  question', 'password', 'verify  password', 'email', 'date of  birth', 'answer']",Normal
+310,310,"['enter  apple id  details', 'security  question', 'password', 'verify  password', 'date of  birth', 'answer', 'email']",Normal
+311,311,"['enter  apple id  details', 'security  question', 'password', 'verify  password', 'date of  birth', 'email', 'answer']",Normal
+312,312,"['enter  apple id  details', 'security  question', 'email', 'password', 'answer', 'date of  birth', 'verify  password']",Normal
+313,313,"['enter  apple id  details', 'security  question', 'email', 'password', 'answer', 'verify  password', 'date of  birth']",Normal
+314,314,"['enter  apple id  details', 'security  question', 'email', 'enter  apple id  details', 'password', 'date of  birth', 'answer', 'verify  password']",Anomalous
+315,315,"['enter  apple id  details', 'security  question', 'email', 'password', 'date of  birth', 'verify  password', 'answer']",Normal
+316,316,"['enter  apple id  details', 'security  question', 'email', 'password', 'verify  password', 'answer', 'date of  birth']",Normal
+317,317,"['enter  apple id  details', 'security  question', 'email', 'password', 'verify  password', 'date of  birth', 'answer']",Normal
+318,318,"['enter  apple id  details', 'security  question', 'email', 'answer', 'password', 'date of  birth', 'verify  password']",Normal
+319,319,"['enter  apple id  details', 'security  question', 'security  question', 'email', 'answer', 'password', 'verify  password', 'date of  birth']",Anomalous
+320,320,"['enter  apple id  details', 'email', 'security  question', 'email', 'answer', 'date of  birth', 'password', 'verify  password', 'verify  password']",Anomalous
+321,321,"['enter  apple id  details', 'security  question', 'email', 'answer', 'date of  birth', 'verify  password', 'password']",Normal
+322,322,"['email', 'enter  apple id  details', 'security  question', 'email', 'answer', 'verify  password', 'date of  birth', 'password']",Anomalous
+323,323,"['enter  apple id  details', 'security  question', 'email', 'answer', 'verify  password', 'verify  password', 'password', 'date of  birth']",Anomalous
+324,324,"['answer', 'enter  apple id  details', 'security  question', 'password', 'security  question', 'email', 'email', 'date of  birth', 'password', 'answer', 'verify  password']",Anomalous
+325,325,"['enter  apple id  details', 'security  question', 'email', 'date of  birth', 'password', 'verify  password', 'answer']",Normal
+326,326,"['email', 'enter  apple id  details', 'security  question', 'email', 'date of  birth', 'password', 'answer', 'password', 'verify  password']",Anomalous
+327,327,"['enter  apple id  details', 'security  question', 'email', 'date of  birth', 'answer', 'verify  password', 'password']",Normal
+328,328,"['enter  apple id  details', 'security  question', 'email', 'date of  birth', 'verify  password', 'answer', 'password']",Normal
+329,329,"['enter  apple id  details', 'security  question', 'email', 'date of  birth', 'verify  password', 'password', 'answer']",Normal
+330,330,"['enter  apple id  details', 'enter  apple id  details', 'security  question', 'email', 'verify  password', 'answer', 'date of  birth', 'password']",Anomalous
+331,331,"['enter  apple id  details', 'security  question', 'email', 'verify  password', 'answer', 'password', 'date of  birth']",Normal
+332,332,"['enter  apple id  details', 'security  question', 'email', 'verify  password', 'date of  birth', 'answer', 'password']",Normal
+333,333,"['enter  apple id  details', 'security  question', 'email', 'verify  password', 'date of  birth', 'password', 'answer']",Normal
+334,334,"['enter  apple id  details', 'verify  password', 'security  question', 'email', 'verify  password', 'password', 'answer', 'verify  password', 'date of  birth']",Anomalous
+335,335,"['enter  apple id  details', 'security  question', 'email', 'verify  password', 'password', 'date of  birth', 'answer']",Normal
+336,336,"['enter  apple id  details', 'security  question', 'date of  birth', 'password', 'answer', 'email', 'security  question', 'verify  password']",Anomalous
+337,337,"['enter  apple id  details', 'security  question', 'date of  birth', 'password', 'answer', 'date of  birth', 'verify  password', 'email']",Anomalous
+338,338,"['enter  apple id  details', 'security  question', 'date of  birth', 'password', 'email', 'answer', 'verify  password']",Normal
+339,339,"['enter  apple id  details', 'security  question', 'date of  birth', 'date of  birth', 'password', 'email', 'verify  password', 'answer']",Anomalous
+340,340,"['enter  apple id  details', 'security  question', 'date of  birth', 'password', 'verify  password', 'answer', 'email']",Normal
+341,341,"['enter  apple id  details', 'security  question', 'date of  birth', 'password', 'verify  password', 'email', 'security  question', 'answer']",Anomalous
+342,342,"['enter  apple id  details', 'security  question', 'date of  birth', 'answer', 'password', 'email', 'email', 'verify  password']",Anomalous
+343,343,"['enter  apple id  details', 'security  question', 'date of  birth', 'answer', 'password', 'verify  password', 'email']",Normal
+344,344,"['enter  apple id  details', 'security  question', 'date of  birth', 'answer', 'email', 'password', 'date of  birth', 'verify  password']",Anomalous
+345,345,"['enter  apple id  details', 'security  question', 'date of  birth', 'answer', 'email', 'verify  password', 'password']",Normal
+346,346,"['enter  apple id  details', 'security  question', 'date of  birth', 'answer', 'verify  password', 'email', 'password']",Normal
+347,347,"['enter  apple id  details', 'security  question', 'date of  birth', 'answer', 'verify  password', 'password', 'email']",Normal
+348,348,"['enter  apple id  details', 'security  question', 'date of  birth', 'security  question', 'email', 'password', 'answer', 'verify  password']",Anomalous
+349,349,"['enter  apple id  details', 'security  question', 'verify  password', 'security  question', 'date of  birth', 'verify  password', 'email', 'password', 'verify  password', 'answer']",Anomalous
+350,350,"['enter  apple id  details', 'security  question', 'date of  birth', 'email', 'answer', 'password', 'verify  password']",Normal
+351,351,"['enter  apple id  details', 'security  question', 'date of  birth', 'email', 'answer', 'verify  password', 'password']",Normal
+352,352,"['enter  apple id  details', 'security  question', 'security  question', 'date of  birth', 'email', 'verify  password', 'answer', 'security  question', 'password']",Anomalous
+353,353,"['enter  apple id  details', 'security  question', 'date of  birth', 'security  question', 'email', 'verify  password', 'password', 'answer']",Anomalous
+354,354,"['enter  apple id  details', 'security  question', 'date of  birth', 'verify  password', 'answer', 'email', 'password']",Normal
+355,355,"['enter  apple id  details', 'security  question', 'date of  birth', 'verify  password', 'answer', 'password', 'email']",Normal
+356,356,"['enter  apple id  details', 'security  question', 'date of  birth', 'verify  password', 'email', 'answer', 'password', 'email']",Anomalous
+357,357,"['enter  apple id  details', 'security  question', 'date of  birth', 'verify  password', 'email', 'password', 'answer']",Normal
+358,358,"['enter  apple id  details', 'security  question', 'date of  birth', 'verify  password', 'password', 'email', 'answer', 'email']",Anomalous
+359,359,"['enter  apple id  details', 'security  question', 'date of  birth', 'verify  password', 'password', 'email', 'answer']",Normal
+360,360,"['enter  apple id  details', 'password', 'verify  password', 'answer', 'security  question', 'email', 'date of  birth']",Normal
+361,361,"['enter  apple id  details', 'password', 'verify  password', 'answer', 'security  question', 'date of  birth', 'email']",Normal
+362,362,"['date of  birth', 'security  question', 'enter  apple id  details', 'password', 'verify  password', 'answer', 'password', 'date of  birth', 'email', 'security  question', 'date of  birth']",Anomalous
+363,363,"['enter  apple id  details', 'password', 'verify  password', 'answer', 'email', 'date of  birth', 'security  question']",Normal
+364,364,"['enter  apple id  details', 'password', 'verify  password', 'answer', 'date of  birth', 'security  question', 'email']",Normal
+365,365,"['enter  apple id  details', 'password', 'verify  password', 'answer', 'date of  birth', 'email', 'security  question']",Normal
+366,366,"['enter  apple id  details', 'password', 'verify  password', 'security  question', 'answer', 'email', 'date of  birth']",Normal
+367,367,"['enter  apple id  details', 'password', 'verify  password', 'security  question', 'answer', 'date of  birth', 'email']",Normal
+368,368,"['enter  apple id  details', 'password', 'verify  password', 'security  question', 'email', 'answer', 'date of  birth']",Normal
+369,369,"['enter  apple id  details', 'password', 'answer', 'verify  password', 'security  question', 'email', 'date of  birth', 'date of  birth', 'security  question', 'enter  apple id  details', 'answer', 'answer']",Anomalous
+370,370,"['enter  apple id  details', 'password', 'verify  password', 'security  question', 'date of  birth', 'answer', 'password', 'email']",Anomalous
+371,371,"['enter  apple id  details', 'password', 'verify  password', 'security  question', 'date of  birth', 'email', 'answer']",Normal
+372,372,"['enter  apple id  details', 'password', 'verify  password', 'date of  birth', 'answer', 'security  question', 'date of  birth', 'email']",Anomalous
+373,373,"['enter  apple id  details', 'enter  apple id  details', 'password', 'verify  password', 'date of  birth', 'verify  password', 'answer', 'email', 'security  question']",Anomalous
+374,374,"['enter  apple id  details', 'password', 'verify  password', 'date of  birth', 'security  question', 'answer', 'password', 'email', 'security  question']",Anomalous
+375,375,"['enter  apple id  details', 'password', 'verify  password', 'date of  birth', 'security  question', 'email', 'answer']",Normal
+376,376,"['enter  apple id  details', 'password', 'verify  password', 'date of  birth', 'email', 'answer', 'security  question']",Normal
+377,377,"['enter  apple id  details', 'password', 'verify  password', 'date of  birth', 'email', 'security  question', 'answer']",Normal
+378,378,"['enter  apple id  details', 'password', 'verify  password', 'password', 'email', 'answer', 'security  question', 'date of  birth']",Anomalous
+379,379,"['security  question', 'enter  apple id  details', 'password', 'answer', 'verify  password', 'email', 'security  question', 'answer', 'verify  password', 'date of  birth', 'security  question']",Anomalous
+380,380,"['enter  apple id  details', 'password', 'verify  password', 'email', 'security  question', 'answer', 'date of  birth']",Normal
+381,381,"['enter  apple id  details', 'password', 'verify  password', 'email', 'security  question', 'date of  birth', 'answer']",Normal
+382,382,"['enter  apple id  details', 'password', 'verify  password', 'email', 'date of  birth', 'answer', 'verify  password', 'security  question']",Anomalous
+383,383,"['enter  apple id  details', 'password', 'verify  password', 'email', 'date of  birth', 'security  question', 'answer', 'enter  apple id  details']",Anomalous
+384,384,"['enter  apple id  details', 'password', 'answer', 'answer', 'date of  birth', 'security  question', 'email', 'verify  password']",Anomalous
+385,385,"['answer', 'enter  apple id  details', 'password', 'answer', 'date of  birth', 'security  question', 'verify  password', 'email']",Anomalous
+386,386,"['enter  apple id  details', 'password', 'answer', 'date of  birth', 'email', 'security  question', 'email', 'security  question', 'verify  password', 'enter  apple id  details']",Anomalous
+387,387,"['enter  apple id  details', 'password', 'answer', 'email', 'security  question', 'date of  birth', 'email', 'enter  apple id  details', 'verify  password', 'security  question']",Anomalous
+388,388,"['enter  apple id  details', 'password', 'answer', 'date of  birth', 'verify  password', 'security  question', 'email']",Normal
+389,389,"['enter  apple id  details', 'password', 'answer', 'date of  birth', 'verify  password', 'email', 'security  question']",Normal
+390,390,"['enter  apple id  details', 'verify  password', 'enter  apple id  details', 'password', 'answer', 'security  question', 'email', 'date of  birth', 'verify  password', 'date of  birth', 'verify  password']",Anomalous
+391,391,"['enter  apple id  details', 'password', 'answer', 'security  question', 'email', 'verify  password', 'date of  birth']",Normal
+392,392,"['enter  apple id  details', 'password', 'answer', 'security  question', 'date of  birth', 'email', 'verify  password']",Normal
+393,393,"['enter  apple id  details', 'password', 'answer', 'enter  apple id  details', 'security  question', 'date of  birth', 'verify  password', 'email', 'password']",Anomalous
+394,394,"['enter  apple id  details', 'password', 'answer', 'security  question', 'verify  password', 'email', 'date of  birth']",Normal
+395,395,"['enter  apple id  details', 'enter  apple id  details', 'password', 'answer', 'security  question', 'verify  password', 'date of  birth', 'email']",Anomalous
+396,396,"['enter  apple id  details', 'password', 'answer', 'email', 'security  question', 'date of  birth', 'verify  password']",Normal
+397,397,"['enter  apple id  details', 'password', 'answer', 'email', 'security  question', 'verify  password', 'date of  birth']",Normal
+398,398,"['enter  apple id  details', 'password', 'answer', 'email', 'date of  birth', 'security  question', 'verify  password']",Normal
+399,399,"['enter  apple id  details', 'password', 'answer', 'email', 'date of  birth', 'verify  password', 'security  question']",Normal
+400,400,"['enter  apple id  details', 'password', 'answer', 'email', 'date of  birth', 'verify  password', 'security  question', 'date of  birth']",Anomalous
+401,401,"['password', 'enter  apple id  details', 'password', 'answer', 'email', 'verify  password', 'enter  apple id  details', 'date of  birth', 'security  question']",Anomalous
+402,402,"['enter  apple id  details', 'password', 'answer', 'verify  password', 'security  question', 'email', 'date of  birth']",Normal
+403,403,"['enter  apple id  details', 'password', 'answer', 'verify  password', 'security  question', 'date of  birth', 'date of  birth', 'email']",Anomalous
+404,404,"['enter  apple id  details', 'password', 'answer', 'verify  password', 'email', 'security  question', 'date of  birth']",Normal
+405,405,"['enter  apple id  details', 'password', 'answer', 'verify  password', 'email', 'date of  birth', 'security  question']",Normal
+406,406,"['enter  apple id  details', 'answer', 'password', 'email', 'answer', 'enter  apple id  details', 'security  question', 'verify  password', 'enter  apple id  details', 'password', 'verify  password', 'date of  birth', 'security  question', 'enter  apple id  details', 'email']",Anomalous
+407,407,"['password', 'date of  birth', 'enter  apple id  details', 'password', 'answer', 'verify  password', 'security  question', 'date of  birth', 'date of  birth', 'email', 'security  question']",Anomalous
+408,408,"['enter  apple id  details', 'password', 'security  question', 'date of  birth', 'answer', 'email', 'verify  password']",Normal
+409,409,"['enter  apple id  details', 'password', 'security  question', 'date of  birth', 'answer', 'answer', 'verify  password', 'email']",Anomalous
+410,410,"['enter  apple id  details', 'password', 'security  question', 'email', 'date of  birth', 'email', 'answer', 'verify  password']",Anomalous
+411,411,"['enter  apple id  details', 'password', 'security  question', 'date of  birth', 'email', 'verify  password', 'answer']",Normal
+412,412,"['enter  apple id  details', 'password', 'security  question', 'date of  birth', 'verify  password', 'answer', 'email']",Normal
+413,413,"['enter  apple id  details', 'password', 'security  question', 'date of  birth', 'verify  password', 'email', 'answer']",Normal
+414,414,"['enter  apple id  details', 'password', 'security  question', 'answer', 'email', 'date of  birth', 'verify  password']",Normal
+415,415,"['enter  apple id  details', 'password', 'security  question', 'answer', 'email', 'verify  password', 'date of  birth']",Normal
+416,416,"['enter  apple id  details', 'password', 'security  question', 'answer', 'date of  birth', 'email', 'verify  password']",Normal
+417,417,"['enter  apple id  details', 'password', 'security  question', 'answer', 'date of  birth', 'verify  password', 'email']",Normal
+418,418,"['enter  apple id  details', 'password', 'security  question', 'answer', 'verify  password', 'email', 'date of  birth']",Normal
+419,419,"['enter  apple id  details', 'password', 'security  question', 'answer', 'verify  password', 'date of  birth', 'email']",Normal
+420,420,"['enter  apple id  details', 'password', 'security  question', 'email', 'answer', 'date of  birth', 'security  question', 'verify  password']",Anomalous
+421,421,"['enter  apple id  details', 'enter  apple id  details', 'password', 'security  question', 'email', 'answer', 'date of  birth', 'verify  password', 'date of  birth']",Anomalous
+422,422,"['enter  apple id  details', 'password', 'security  question', 'email', 'date of  birth', 'answer', 'verify  password']",Normal
+423,423,"['enter  apple id  details', 'password', 'security  question', 'email', 'date of  birth', 'security  question', 'enter  apple id  details', 'verify  password', 'answer']",Anomalous
+424,424,"['enter  apple id  details', 'password', 'security  question', 'password', 'email', 'verify  password', 'enter  apple id  details', 'answer', 'date of  birth']",Anomalous
+425,425,"['answer', 'enter  apple id  details', 'password', 'security  question', 'email', 'enter  apple id  details', 'verify  password', 'date of  birth', 'answer']",Anomalous
+426,426,"['enter  apple id  details', 'password', 'security  question', 'verify  password', 'answer', 'email', 'date of  birth']",Normal
+427,427,"['enter  apple id  details', 'password', 'security  question', 'verify  password', 'answer', 'date of  birth', 'email']",Normal
+428,428,"['enter  apple id  details', 'password', 'security  question', 'verify  password', 'email', 'answer', 'date of  birth']",Normal
+429,429,"['answer', 'enter  apple id  details', 'password', 'security  question', 'verify  password', 'email', 'date of  birth', 'answer']",Anomalous
+430,430,"['enter  apple id  details', 'password', 'security  question', 'verify  password', 'date of  birth', 'answer', 'email', 'answer']",Anomalous
+431,431,"['enter  apple id  details', 'password', 'security  question', 'verify  password', 'date of  birth', 'email', 'answer']",Normal
+432,432,"['enter  apple id  details', 'password', 'email', 'date of  birth', 'answer', 'security  question', 'verify  password']",Normal
+433,433,"['enter  apple id  details', 'password', 'email', 'date of  birth', 'answer', 'verify  password', 'security  question']",Normal
+434,434,"['enter  apple id  details', 'security  question', 'email', 'password', 'email', 'date of  birth', 'date of  birth', 'security  question', 'answer', 'verify  password']",Anomalous
+435,435,"['enter  apple id  details', 'password', 'email', 'date of  birth', 'security  question', 'verify  password', 'answer']",Normal
+436,436,"['enter  apple id  details', 'enter  apple id  details', 'password', 'email', 'date of  birth', 'email', 'verify  password', 'verify  password', 'answer', 'enter  apple id  details', 'security  question']",Anomalous
+437,437,"['enter  apple id  details', 'password', 'email', 'date of  birth', 'verify  password', 'security  question', 'answer']",Normal
+438,438,"['enter  apple id  details', 'password', 'email', 'verify  password', 'answer', 'security  question', 'date of  birth', 'verify  password']",Anomalous
+439,439,"['enter  apple id  details', 'password', 'email', 'answer', 'security  question', 'verify  password', 'date of  birth']",Normal
+440,440,"['enter  apple id  details', 'password', 'email', 'answer', 'date of  birth', 'security  question', 'verify  password']",Normal
+441,441,"['enter  apple id  details', 'password', 'email', 'answer', 'date of  birth', 'verify  password', 'security  question']",Normal
+442,442,"['date of  birth', 'enter  apple id  details', 'password', 'password', 'email', 'answer', 'answer', 'verify  password', 'verify  password', 'security  question', 'date of  birth']",Anomalous
+443,443,"['enter  apple id  details', 'password', 'email', 'answer', 'verify  password', 'date of  birth', 'security  question']",Normal
+444,444,"['enter  apple id  details', 'password', 'password', 'email', 'security  question', 'answer', 'date of  birth', 'verify  password']",Anomalous
+445,445,"['enter  apple id  details', 'password', 'email', 'security  question', 'answer', 'verify  password', 'date of  birth']",Normal
+446,446,"['enter  apple id  details', 'password', 'email', 'security  question', 'date of  birth', 'answer', 'verify  password']",Normal
+447,447,"['verify  password', 'enter  apple id  details', 'password', 'email', 'security  question', 'date of  birth', 'verify  password', 'answer']",Anomalous
+448,448,"['enter  apple id  details', 'password', 'email', 'security  question', 'verify  password', 'answer', 'date of  birth']",Normal
+449,449,"['enter  apple id  details', 'password', 'email', 'security  question', 'verify  password', 'date of  birth', 'answer']",Normal
+450,450,"['enter  apple id  details', 'password', 'email', 'verify  password', 'answer', 'security  question', 'date of  birth', 'email']",Anomalous
+451,451,"['enter  apple id  details', 'password', 'email', 'verify  password', 'answer', 'date of  birth', 'security  question']",Normal
+452,452,"['enter  apple id  details', 'password', 'email', 'verify  password', 'security  question', 'answer', 'date of  birth']",Normal
+453,453,"['enter  apple id  details', 'password', 'email', 'verify  password', 'security  question', 'date of  birth', 'answer']",Normal
+454,454,"['enter  apple id  details', 'password', 'email', 'verify  password', 'date of  birth', 'answer', 'security  question']",Normal
+455,455,"['email', 'enter  apple id  details', 'password', 'email', 'verify  password', 'date of  birth', 'security  question', 'answer']",Anomalous
+456,456,"['enter  apple id  details', 'password', 'date of  birth', 'answer', 'security  question', 'email', 'verify  password']",Normal
+457,457,"['enter  apple id  details', 'password', 'date of  birth', 'answer', 'security  question', 'verify  password', 'email']",Normal
+458,458,"['enter  apple id  details', 'password', 'date of  birth', 'answer', 'email', 'security  question', 'verify  password']",Normal
+459,459,"['enter  apple id  details', 'password', 'date of  birth', 'answer', 'verify  password', 'email', 'verify  password', 'security  question']",Anomalous
+460,460,"['enter  apple id  details', 'password', 'date of  birth', 'answer', 'verify  password', 'security  question', 'email']",Normal
+461,461,"['verify  password', 'enter  apple id  details', 'password', 'date of  birth', 'answer', 'verify  password', 'email', 'security  question']",Anomalous
+462,462,"['enter  apple id  details', 'password', 'password', 'date of  birth', 'security  question', 'answer', 'email', 'verify  password']",Anomalous
+463,463,"['password', 'enter  apple id  details', 'password', 'date of  birth', 'security  question', 'answer', 'verify  password', 'email']",Anomalous
+464,464,"['enter  apple id  details', 'password', 'date of  birth', 'security  question', 'email', 'answer', 'verify  password']",Normal
+465,465,"['enter  apple id  details', 'password', 'date of  birth', 'security  question', 'email', 'answer', 'verify  password', 'security  question', 'password', 'answer']",Anomalous
+466,466,"['enter  apple id  details', 'date of  birth', 'enter  apple id  details', 'verify  password', 'enter  apple id  details', 'enter  apple id  details', 'password', 'date of  birth', 'security  question', 'verify  password', 'verify  password', 'answer', 'email']",Anomalous
+467,467,"['enter  apple id  details', 'password', 'date of  birth', 'security  question', 'verify  password', 'email', 'answer', 'verify  password']",Anomalous
+468,468,"['enter  apple id  details', 'password', 'date of  birth', 'verify  password', 'answer', 'security  question', 'email']",Normal
+469,469,"['enter  apple id  details', 'password', 'date of  birth', 'verify  password', 'answer', 'email', 'security  question', 'email']",Anomalous
+470,470,"['enter  apple id  details', 'password', 'date of  birth', 'verify  password', 'security  question', 'answer', 'email']",Normal
+471,471,"['enter  apple id  details', 'password', 'date of  birth', 'verify  password', 'security  question', 'email', 'answer']",Normal
+472,472,"['enter  apple id  details', 'password', 'date of  birth', 'verify  password', 'email', 'email', 'answer', 'security  question']",Anomalous
+473,473,"['enter  apple id  details', 'password', 'password', 'date of  birth', 'verify  password', 'enter  apple id  details', 'email', 'security  question', 'date of  birth', 'answer']",Anomalous
+474,474,"['enter  apple id  details', 'password', 'date of  birth', 'email', 'answer', 'security  question', 'verify  password']",Normal
+475,475,"['email', 'password', 'enter  apple id  details', 'password', 'answer', 'answer', 'date of  birth', 'email', 'answer', 'date of  birth', 'verify  password', 'security  question', 'password']",Anomalous
+476,476,"['enter  apple id  details', 'email', 'password', 'date of  birth', 'email', 'security  question', 'verify  password', 'answer', 'verify  password']",Anomalous
+477,477,"['enter  apple id  details', 'password', 'date of  birth', 'email', 'security  question', 'verify  password', 'password', 'answer']",Anomalous
+478,478,"['enter  apple id  details', 'password', 'date of  birth', 'email', 'verify  password', 'answer', 'security  question']",Normal
+479,479,"['enter  apple id  details', 'password', 'password', 'date of  birth', 'email', 'verify  password', 'security  question', 'security  question', 'answer']",Anomalous
+480,480,"['enter  apple id  details', 'date of  birth', 'email', 'verify  password', 'date of  birth', 'answer', 'security  question', 'password']",Anomalous
+481,481,"['enter  apple id  details', 'email', 'verify  password', 'date of  birth', 'answer', 'password', 'security  question']",Normal
+482,482,"['enter  apple id  details', 'email', 'verify  password', 'date of  birth', 'security  question', 'answer', 'password']",Normal
+483,483,"['enter  apple id  details', 'email', 'verify  password', 'date of  birth', 'security  question', 'password', 'answer']",Normal
+484,484,"['enter  apple id  details', 'email', 'verify  password', 'date of  birth', 'password', 'answer', 'security  question']",Normal
+485,485,"['enter  apple id  details', 'email', 'verify  password', 'date of  birth', 'password', 'security  question', 'answer']",Normal
+486,486,"['enter  apple id  details', 'email', 'verify  password', 'answer', 'security  question', 'date of  birth', 'password']",Normal
+487,487,"['enter  apple id  details', 'email', 'verify  password', 'answer', 'security  question', 'password', 'date of  birth']",Normal
+488,488,"['enter  apple id  details', 'email', 'verify  password', 'answer', 'date of  birth', 'security  question', 'password']",Normal
+489,489,"['enter  apple id  details', 'email', 'verify  password', 'answer', 'date of  birth', 'password', 'security  question']",Normal
+490,490,"['enter  apple id  details', 'email', 'verify  password', 'answer', 'password', 'security  question', 'date of  birth']",Normal
+491,491,"['enter  apple id  details', 'email', 'verify  password', 'email', 'answer', 'password', 'date of  birth', 'email', 'enter  apple id  details', 'security  question']",Anomalous
+492,492,"['enter  apple id  details', 'email', 'verify  password', 'security  question', 'answer', 'date of  birth', 'password']",Normal
+493,493,"['enter  apple id  details', 'email', 'verify  password', 'security  question', 'answer', 'password', 'date of  birth']",Normal
+494,494,"['enter  apple id  details', 'email', 'verify  password', 'security  question', 'date of  birth', 'answer', 'password']",Normal
+495,495,"['verify  password', 'enter  apple id  details', 'email', 'verify  password', 'security  question', 'date of  birth', 'password', 'security  question', 'email', 'answer']",Anomalous
+496,496,"['enter  apple id  details', 'email', 'verify  password', 'security  question', 'password', 'answer', 'answer', 'date of  birth']",Anomalous
+497,497,"['enter  apple id  details', 'email', 'verify  password', 'security  question', 'password', 'date of  birth', 'answer']",Normal
+498,498,"['enter  apple id  details', 'email', 'verify  password', 'password', 'answer', 'security  question', 'date of  birth']",Normal
+499,499,"['enter  apple id  details', 'enter  apple id  details', 'verify  password', 'email', 'verify  password', 'password', 'answer', 'date of  birth', 'security  question']",Anomalous
+500,500,"['enter  apple id  details', 'email', 'verify  password', 'password', 'security  question', 'answer', 'date of  birth']",Normal
+501,501,"['password', 'enter  apple id  details', 'email', 'verify  password', 'password', 'security  question', 'date of  birth', 'security  question', 'answer', 'password']",Anomalous
+502,502,"['enter  apple id  details', 'email', 'verify  password', 'password', 'date of  birth', 'answer', 'security  question']",Normal
+503,503,"['enter  apple id  details', 'email', 'verify  password', 'password', 'date of  birth', 'security  question', 'answer']",Normal
+504,504,"['enter  apple id  details', 'email', 'answer', 'password', 'date of  birth', 'security  question', 'date of  birth', 'verify  password']",Anomalous
+505,505,"['enter  apple id  details', 'verify  password', 'email', 'answer', 'date of  birth', 'password', 'security  question', 'verify  password', 'date of  birth']",Anomalous
+506,506,"['enter  apple id  details', 'email', 'answer', 'password', 'date of  birth', 'security  question', 'verify  password']",Normal
+507,507,"['enter  apple id  details', 'email', 'answer', 'password', 'date of  birth', 'date of  birth', 'email', 'verify  password', 'security  question']",Anomalous
+508,508,"['enter  apple id  details', 'email', 'answer', 'password', 'verify  password', 'security  question', 'date of  birth']",Normal
+509,509,"['verify  password', 'enter  apple id  details', 'email', 'email', 'answer', 'password', 'verify  password', 'date of  birth', 'security  question']",Anomalous
+510,510,"['enter  apple id  details', 'email', 'answer', 'security  question', 'password', 'date of  birth', 'enter  apple id  details', 'verify  password']",Anomalous
+511,511,"['enter  apple id  details', 'email', 'answer', 'security  question', 'password', 'verify  password', 'date of  birth']",Normal
+512,512,"['enter  apple id  details', 'email', 'answer', 'security  question', 'date of  birth', 'password', 'verify  password']",Normal
+513,513,"['enter  apple id  details', 'email', 'answer', 'answer', 'security  question', 'verify  password', 'date of  birth', 'email', 'verify  password', 'password', 'security  question', 'password']",Anomalous
+514,514,"['enter  apple id  details', 'email', 'answer', 'security  question', 'verify  password', 'date of  birth', 'password']",Normal
+515,515,"['enter  apple id  details', 'email', 'answer', 'security  question', 'verify  password', 'password', 'date of  birth']",Normal
+516,516,"['enter  apple id  details', 'email', 'answer', 'date of  birth', 'security  question', 'enter  apple id  details', 'password', 'security  question', 'verify  password']",Anomalous
+517,517,"['enter  apple id  details', 'email', 'answer', 'date of  birth', 'password', 'verify  password', 'security  question']",Normal
+518,518,"['enter  apple id  details', 'email', 'answer', 'date of  birth', 'security  question', 'password', 'verify  password']",Normal
+519,519,"['enter  apple id  details', 'email', 'answer', 'date of  birth', 'security  question', 'verify  password', 'password']",Normal
+520,520,"['enter  apple id  details', 'email', 'answer', 'answer', 'date of  birth', 'verify  password', 'security  question', 'password']",Anomalous
+521,521,"['enter  apple id  details', 'email', 'answer', 'date of  birth', 'verify  password', 'password', 'security  question']",Normal
+522,522,"['email', 'enter  apple id  details', 'email', 'answer', 'verify  password', 'security  question', 'date of  birth', 'password']",Anomalous
+523,523,"['enter  apple id  details', 'email', 'answer', 'date of  birth', 'verify  password', 'security  question', 'password', 'date of  birth']",Anomalous
+524,524,"['enter  apple id  details', 'email', 'answer', 'enter  apple id  details', 'verify  password', 'date of  birth', 'security  question', 'security  question', 'password']",Anomalous
+525,525,"['enter  apple id  details', 'email', 'answer', 'verify  password', 'date of  birth', 'password', 'security  question']",Normal
+526,526,"['enter  apple id  details', 'email', 'answer', 'verify  password', 'password', 'security  question', 'date of  birth']",Normal
+527,527,"['enter  apple id  details', 'answer', 'email', 'answer', 'verify  password', 'password', 'date of  birth', 'security  question']",Anomalous
+528,528,"['enter  apple id  details', 'email', 'security  question', 'password', 'answer', 'date of  birth', 'verify  password']",Normal
+529,529,"['enter  apple id  details', 'email', 'security  question', 'password', 'answer', 'verify  password', 'date of  birth']",Normal
+530,530,"['enter  apple id  details', 'email', 'security  question', 'password', 'date of  birth', 'enter  apple id  details', 'answer', 'answer', 'verify  password', 'email']",Anomalous
+531,531,"['enter  apple id  details', 'email', 'email', 'security  question', 'password', 'date of  birth', 'verify  password', 'answer']",Anomalous
+532,532,"['enter  apple id  details', 'email', 'security  question', 'password', 'verify  password', 'answer', 'date of  birth']",Normal
+533,533,"['enter  apple id  details', 'email', 'security  question', 'password', 'verify  password', 'date of  birth', 'answer']",Normal
+534,534,"['enter  apple id  details', 'email', 'security  question', 'answer', 'password', 'date of  birth', 'verify  password']",Normal
+535,535,"['enter  apple id  details', 'email', 'security  question', 'answer', 'password', 'verify  password', 'date of  birth']",Normal
+536,536,"['enter  apple id  details', 'email', 'security  question', 'answer', 'date of  birth', 'password', 'verify  password', 'enter  apple id  details']",Anomalous
+537,537,"['enter  apple id  details', 'email', 'security  question', 'answer', 'date of  birth', 'verify  password', 'password']",Normal
+538,538,"['enter  apple id  details', 'email', 'security  question', 'answer', 'verify  password', 'date of  birth', 'password']",Normal
+539,539,"['enter  apple id  details', 'email', 'security  question', 'answer', 'verify  password', 'password', 'date of  birth']",Normal
+540,540,"['enter  apple id  details', 'email', 'security  question', 'date of  birth', 'verify  password', 'password', 'answer', 'password', 'verify  password']",Anomalous
+541,541,"['enter  apple id  details', 'email', 'security  question', 'date of  birth', 'password', 'verify  password', 'answer']",Normal
+542,542,"['enter  apple id  details', 'verify  password', 'email', 'security  question', 'date of  birth', 'enter  apple id  details', 'answer', 'password', 'verify  password']",Anomalous
+543,543,"['enter  apple id  details', 'email', 'security  question', 'date of  birth', 'answer', 'verify  password', 'password']",Normal
+544,544,"['enter  apple id  details', 'date of  birth', 'email', 'verify  password', 'security  question', 'date of  birth', 'verify  password', 'answer', 'answer', 'password', 'password']",Anomalous
+545,545,"['enter  apple id  details', 'email', 'security  question', 'password', 'date of  birth', 'verify  password', 'password', 'answer']",Anomalous
+546,546,"['enter  apple id  details', 'email', 'security  question', 'verify  password', 'answer', 'date of  birth', 'email', 'password']",Anomalous
+547,547,"['enter  apple id  details', 'email', 'security  question', 'verify  password', 'answer', 'password', 'date of  birth']",Normal
+548,548,"['enter  apple id  details', 'email', 'security  question', 'verify  password', 'date of  birth', 'answer', 'password']",Normal
+549,549,"['enter  apple id  details', 'email', 'security  question', 'verify  password', 'date of  birth', 'password', 'answer']",Normal
+550,550,"['enter  apple id  details', 'email', 'security  question', 'verify  password', 'password', 'answer', 'date of  birth']",Normal
+551,551,"['enter  apple id  details', 'email', 'security  question', 'verify  password', 'password', 'date of  birth', 'answer']",Normal
+552,552,"['enter  apple id  details', 'email', 'password', 'email', 'date of  birth', 'answer', 'email', 'security  question', 'password', 'verify  password']",Anomalous
+553,553,"['enter  apple id  details', 'email', 'password', 'date of  birth', 'answer', 'verify  password', 'security  question']",Normal
+554,554,"['enter  apple id  details', 'email', 'email', 'password', 'verify  password', 'date of  birth', 'security  question', 'answer', 'verify  password']",Anomalous
+555,555,"['enter  apple id  details', 'email', 'password', 'security  question', 'date of  birth', 'security  question', 'verify  password', 'verify  password', 'answer', 'verify  password']",Anomalous
+556,556,"['enter  apple id  details', 'email', 'password', 'date of  birth', 'verify  password', 'answer', 'security  question', 'password']",Anomalous
+557,557,"['enter  apple id  details', 'email', 'password', 'date of  birth', 'verify  password', 'security  question', 'answer']",Normal
+558,558,"['enter  apple id  details', 'email', 'password', 'answer', 'security  question', 'date of  birth', 'verify  password']",Normal
+559,559,"['enter  apple id  details', 'email', 'password', 'answer', 'security  question', 'verify  password', 'date of  birth', 'password']",Anomalous
+560,560,"['enter  apple id  details', 'email', 'password', 'answer', 'date of  birth', 'security  question', 'verify  password']",Normal
+561,561,"['enter  apple id  details', 'email', 'password', 'answer', 'date of  birth', 'verify  password', 'security  question']",Normal
+562,562,"['enter  apple id  details', 'email', 'password', 'answer', 'verify  password', 'security  question', 'date of  birth']",Normal
+563,563,"['enter  apple id  details', 'email', 'password', 'answer', 'verify  password', 'date of  birth', 'security  question']",Normal
+564,564,"['date of  birth', 'answer', 'enter  apple id  details', 'email', 'password', 'security  question', 'answer', 'answer', 'date of  birth', 'security  question', 'verify  password']",Anomalous
+565,565,"['enter  apple id  details', 'email', 'password', 'security  question', 'answer', 'verify  password', 'date of  birth']",Normal
+566,566,"['enter  apple id  details', 'email', 'password', 'security  question', 'date of  birth', 'answer', 'verify  password']",Normal
+567,567,"['enter  apple id  details', 'email', 'password', 'security  question', 'date of  birth', 'verify  password', 'answer']",Normal
+568,568,"['enter  apple id  details', 'email', 'password', 'security  question', 'verify  password', 'answer', 'date of  birth']",Normal
+569,569,"['enter  apple id  details', 'email', 'password', 'security  question', 'verify  password', 'date of  birth', 'answer']",Normal
+570,570,"['enter  apple id  details', 'email', 'password', 'verify  password', 'answer', 'security  question', 'date of  birth']",Normal
+571,571,"['enter  apple id  details', 'email', 'password', 'email', 'password', 'verify  password', 'answer', 'date of  birth', 'security  question', 'answer']",Anomalous
+572,572,"['enter  apple id  details', 'email', 'password', 'verify  password', 'security  question', 'answer', 'date of  birth']",Normal
+573,573,"['enter  apple id  details', 'email', 'password', 'verify  password', 'security  question', 'date of  birth', 'answer']",Normal
+574,574,"['enter  apple id  details', 'email', 'password', 'verify  password', 'date of  birth', 'answer', 'security  question']",Normal
+575,575,"['email', 'enter  apple id  details', 'email', 'password', 'verify  password', 'verify  password', 'date of  birth', 'security  question', 'answer']",Anomalous
+576,576,"['enter  apple id  details', 'email', 'date of  birth', 'password', 'answer', 'security  question', 'verify  password']",Normal
+577,577,"['enter  apple id  details', 'email', 'date of  birth', 'password', 'answer', 'verify  password', 'security  question']",Normal
+578,578,"['enter  apple id  details', 'email', 'date of  birth', 'password', 'security  question', 'answer', 'answer', 'verify  password']",Anomalous
+579,579,"['enter  apple id  details', 'email', 'date of  birth', 'verify  password', 'password', 'email', 'security  question', 'verify  password', 'answer']",Anomalous
+580,580,"['enter  apple id  details', 'email', 'date of  birth', 'password', 'verify  password', 'answer', 'security  question']",Normal
+581,581,"['enter  apple id  details', 'email', 'date of  birth', 'password', 'verify  password', 'security  question', 'answer']",Normal
+582,582,"['password', 'enter  apple id  details', 'email', 'date of  birth', 'answer', 'password', 'security  question', 'verify  password', 'verify  password']",Anomalous
+583,583,"['enter  apple id  details', 'email', 'date of  birth', 'verify  password', 'answer', 'password', 'verify  password', 'security  question']",Anomalous
+584,584,"['enter  apple id  details', 'email', 'date of  birth', 'answer', 'security  question', 'password', 'verify  password']",Normal
+585,585,"['enter  apple id  details', 'email', 'date of  birth', 'answer', 'security  question', 'verify  password', 'password']",Normal
+586,586,"['enter  apple id  details', 'email', 'date of  birth', 'answer', 'verify  password', 'security  question', 'password']",Normal
+587,587,"['enter  apple id  details', 'email', 'date of  birth', 'answer', 'verify  password', 'enter  apple id  details', 'password', 'security  question']",Anomalous
+588,588,"['enter  apple id  details', 'email', 'date of  birth', 'security  question', 'password', 'answer', 'security  question', 'verify  password']",Anomalous
+589,589,"['enter  apple id  details', 'email', 'date of  birth', 'security  question', 'password', 'verify  password', 'answer']",Normal
+590,590,"['enter  apple id  details', 'email', 'date of  birth', 'security  question', 'answer', 'password', 'verify  password']",Normal
+591,591,"['enter  apple id  details', 'email', 'date of  birth', 'security  question', 'answer', 'verify  password', 'password']",Normal
+592,592,"['enter  apple id  details', 'email', 'date of  birth', 'security  question', 'verify  password', 'answer', 'password']",Normal
+593,593,"['enter  apple id  details', 'email', 'date of  birth', 'security  question', 'verify  password', 'password', 'answer', 'email']",Anomalous
+594,594,"['enter  apple id  details', 'email', 'date of  birth', 'verify  password', 'answer', 'security  question', 'password']",Normal
+595,595,"['enter  apple id  details', 'email', 'date of  birth', 'verify  password', 'answer', 'password', 'security  question']",Normal
+596,596,"['enter  apple id  details', 'email', 'date of  birth', 'verify  password', 'security  question', 'answer', 'password', 'security  question']",Anomalous
+597,597,"['enter  apple id  details', 'email', 'date of  birth', 'verify  password', 'security  question', 'password', 'answer']",Normal
+598,598,"['enter  apple id  details', 'password', 'enter  apple id  details', 'email', 'date of  birth', 'verify  password', 'password', 'answer', 'security  question']",Anomalous
+599,599,"['enter  apple id  details', 'email', 'date of  birth', 'verify  password', 'password', 'security  question', 'answer']",Normal
+600,600,"['enter  apple id  details', 'date of  birth', 'verify  password', 'answer', 'security  question', 'email', 'password']",Normal
+601,601,"['enter  apple id  details', 'date of  birth', 'password', 'verify  password', 'answer', 'security  question', 'password', 'email', 'email']",Anomalous
+602,602,"['enter  apple id  details', 'date of  birth', 'verify  password', 'answer', 'password', 'email', 'security  question', 'password']",Anomalous
+603,603,"['enter  apple id  details', 'email', 'answer', 'date of  birth', 'verify  password', 'answer', 'email', 'password', 'security  question']",Anomalous
+604,604,"['enter  apple id  details', 'password', 'date of  birth', 'verify  password', 'answer', 'password', 'security  question', 'email', 'email']",Anomalous
+605,605,"['security  question', 'enter  apple id  details', 'date of  birth', 'verify  password', 'security  question', 'answer', 'password', 'email', 'security  question', 'enter  apple id  details']",Anomalous
+606,606,"['enter  apple id  details', 'date of  birth', 'verify  password', 'security  question', 'answer', 'email', 'password']",Normal
+607,607,"['enter  apple id  details', 'date of  birth', 'verify  password', 'security  question', 'answer', 'password', 'email', 'answer']",Anomalous
+608,608,"['enter  apple id  details', 'date of  birth', 'verify  password', 'security  question', 'email', 'answer', 'password']",Normal
+609,609,"['enter  apple id  details', 'date of  birth', 'verify  password', 'enter  apple id  details', 'security  question', 'email', 'answer', 'password', 'answer']",Anomalous
+610,610,"['enter  apple id  details', 'date of  birth', 'verify  password', 'security  question', 'password', 'answer', 'email']",Normal
+611,611,"['enter  apple id  details', 'date of  birth', 'verify  password', 'email', 'security  question', 'password', 'email', 'answer']",Anomalous
+612,612,"['enter  apple id  details', 'date of  birth', 'verify  password', 'password', 'answer', 'security  question', 'email']",Normal
+613,613,"['enter  apple id  details', 'date of  birth', 'verify  password', 'password', 'answer', 'email', 'security  question']",Normal
+614,614,"['enter  apple id  details', 'date of  birth', 'verify  password', 'password', 'security  question', 'answer', 'email']",Normal
+615,615,"['enter  apple id  details', 'date of  birth', 'verify  password', 'enter  apple id  details', 'password', 'security  question', 'password', 'password', 'security  question', 'enter  apple id  details', 'enter  apple id  details', 'email', 'answer']",Anomalous
+616,616,"['enter  apple id  details', 'date of  birth', 'verify  password', 'password', 'email', 'password', 'answer', 'security  question']",Anomalous
+617,617,"['enter  apple id  details', 'date of  birth', 'verify  password', 'password', 'email', 'security  question', 'enter  apple id  details', 'answer', 'email']",Anomalous
+618,618,"['enter  apple id  details', 'date of  birth', 'verify  password', 'email', 'answer', 'security  question', 'password']",Normal
+619,619,"['enter  apple id  details', 'answer', 'date of  birth', 'email', 'answer', 'verify  password', 'email', 'answer', 'date of  birth', 'password', 'answer', 'security  question']",Anomalous
+620,620,"['enter  apple id  details', 'date of  birth', 'verify  password', 'email', 'security  question', 'answer', 'password']",Normal
+621,621,"['enter  apple id  details', 'date of  birth', 'verify  password', 'email', 'security  question', 'password', 'answer']",Normal
+622,622,"['enter  apple id  details', 'date of  birth', 'verify  password', 'date of  birth', 'email', 'password', 'email', 'answer', 'security  question']",Anomalous
+623,623,"['enter  apple id  details', 'password', 'date of  birth', 'security  question', 'verify  password', 'email', 'password', 'security  question', 'answer', 'date of  birth']",Anomalous
+624,624,"['enter  apple id  details', 'date of  birth', 'answer', 'password', 'security  question', 'email', 'verify  password']",Normal
+625,625,"['enter  apple id  details', 'date of  birth', 'answer', 'password', 'security  question', 'verify  password', 'email']",Normal
+626,626,"['enter  apple id  details', 'date of  birth', 'answer', 'password', 'email', 'security  question', 'verify  password']",Normal
+627,627,"['enter  apple id  details', 'date of  birth', 'answer', 'password', 'email', 'verify  password', 'security  question']",Normal
+628,628,"['enter  apple id  details', 'date of  birth', 'answer', 'password', 'verify  password', 'security  question', 'email']",Normal
+629,629,"['enter  apple id  details', 'email', 'date of  birth', 'answer', 'password', 'verify  password', 'email', 'verify  password', 'security  question', 'enter  apple id  details']",Anomalous
+630,630,"['enter  apple id  details', 'date of  birth', 'answer', 'security  question', 'password', 'email', 'verify  password']",Normal
+631,631,"['enter  apple id  details', 'date of  birth', 'answer', 'security  question', 'password', 'verify  password', 'email']",Normal
+632,632,"['enter  apple id  details', 'date of  birth', 'answer', 'security  question', 'email', 'password', 'verify  password']",Normal
+633,633,"['enter  apple id  details', 'date of  birth', 'answer', 'security  question', 'email', 'verify  password', 'password']",Normal
+634,634,"['enter  apple id  details', 'date of  birth', 'security  question', 'answer', 'security  question', 'verify  password', 'email', 'password']",Anomalous
+635,635,"['enter  apple id  details', 'date of  birth', 'answer', 'security  question', 'verify  password', 'password', 'email']",Normal
+636,636,"['enter  apple id  details', 'date of  birth', 'answer', 'email', 'password', 'security  question', 'verify  password']",Normal
+637,637,"['enter  apple id  details', 'date of  birth', 'answer', 'email', 'password', 'verify  password', 'security  question']",Normal
+638,638,"['enter  apple id  details', 'date of  birth', 'answer', 'email', 'security  question', 'password', 'verify  password']",Normal
+639,639,"['enter  apple id  details', 'date of  birth', 'answer', 'email', 'security  question', 'verify  password', 'password']",Normal
+640,640,"['enter  apple id  details', 'date of  birth', 'answer', 'email', 'verify  password', 'security  question', 'password', 'verify  password']",Anomalous
+641,641,"['answer', 'enter  apple id  details', 'date of  birth', 'answer', 'email', 'verify  password', 'security  question', 'email', 'enter  apple id  details', 'enter  apple id  details', 'password', 'security  question']",Anomalous
+642,642,"['enter  apple id  details', 'date of  birth', 'answer', 'verify  password', 'security  question', 'email', 'password']",Normal
+643,643,"['enter  apple id  details', 'date of  birth', 'answer', 'verify  password', 'security  question', 'password', 'email']",Normal
+644,644,"['enter  apple id  details', 'date of  birth', 'answer', 'verify  password', 'email', 'enter  apple id  details', 'security  question', 'password']",Anomalous
+645,645,"['enter  apple id  details', 'date of  birth', 'answer', 'verify  password', 'email', 'password', 'security  question']",Normal
+646,646,"['enter  apple id  details', 'password', 'date of  birth', 'answer', 'verify  password', 'security  question', 'password', 'security  question', 'email']",Anomalous
+647,647,"['enter  apple id  details', 'date of  birth', 'answer', 'verify  password', 'password', 'email', 'security  question']",Normal
+648,648,"['enter  apple id  details', 'date of  birth', 'security  question', 'password', 'answer', 'email', 'verify  password']",Normal
+649,649,"['enter  apple id  details', 'date of  birth', 'security  question', 'password', 'verify  password', 'password', 'answer', 'verify  password', 'email']",Anomalous
+650,650,"['date of  birth', 'enter  apple id  details', 'date of  birth', 'security  question', 'password', 'email', 'answer', 'verify  password']",Anomalous
+651,651,"['enter  apple id  details', 'date of  birth', 'answer', 'security  question', 'password', 'email', 'verify  password', 'enter  apple id  details', 'answer']",Anomalous
+652,652,"['enter  apple id  details', 'date of  birth', 'security  question', 'password', 'verify  password', 'answer', 'email']",Normal
+653,653,"['enter  apple id  details', 'date of  birth', 'security  question', 'password', 'verify  password', 'answer', 'email', 'answer']",Anomalous
+654,654,"['enter  apple id  details', 'date of  birth', 'security  question', 'answer', 'password', 'email', 'verify  password']",Normal
+655,655,"['enter  apple id  details', 'date of  birth', 'security  question', 'security  question', 'answer', 'password', 'verify  password', 'email']",Anomalous
+656,656,"['enter  apple id  details', 'date of  birth', 'security  question', 'answer', 'email', 'password', 'verify  password']",Normal
+657,657,"['enter  apple id  details', 'date of  birth', 'security  question', 'security  question', 'enter  apple id  details', 'verify  password', 'answer', 'email', 'verify  password', 'password']",Anomalous
+658,658,"['enter  apple id  details', 'password', 'date of  birth', 'security  question', 'answer', 'verify  password', 'email', 'password']",Anomalous
+659,659,"['enter  apple id  details', 'date of  birth', 'security  question', 'date of  birth', 'answer', 'verify  password', 'password', 'email']",Anomalous
+660,660,"['enter  apple id  details', 'date of  birth', 'security  question', 'email', 'password', 'answer', 'verify  password']",Normal
+661,661,"['enter  apple id  details', 'date of  birth', 'security  question', 'email', 'password', 'verify  password', 'email', 'answer']",Anomalous
+662,662,"['enter  apple id  details', 'security  question', 'date of  birth', 'security  question', 'verify  password', 'email', 'answer', 'password', 'verify  password', 'verify  password', 'enter  apple id  details']",Anomalous
+663,663,"['enter  apple id  details', 'date of  birth', 'security  question', 'email', 'answer', 'verify  password', 'password']",Normal
+664,664,"['enter  apple id  details', 'date of  birth', 'security  question', 'email', 'verify  password', 'answer', 'password']",Normal
+665,665,"['password', 'enter  apple id  details', 'date of  birth', 'security  question', 'email', 'email', 'email', 'security  question', 'verify  password', 'password', 'answer']",Anomalous
+666,666,"['enter  apple id  details', 'date of  birth', 'security  question', 'verify  password', 'answer', 'email', 'password']",Normal
+667,667,"['enter  apple id  details', 'date of  birth', 'security  question', 'verify  password', 'answer', 'password', 'email']",Normal
+668,668,"['enter  apple id  details', 'date of  birth', 'security  question', 'verify  password', 'email', 'answer', 'password']",Normal
+669,669,"['enter  apple id  details', 'date of  birth', 'security  question', 'verify  password', 'email', 'password', 'answer']",Normal
+670,670,"['enter  apple id  details', 'date of  birth', 'security  question', 'verify  password', 'password', 'answer', 'email']",Normal
+671,671,"['enter  apple id  details', 'date of  birth', 'security  question', 'verify  password', 'password', 'email', 'answer']",Normal
+672,672,"['enter  apple id  details', 'date of  birth', 'password', 'answer', 'security  question', 'email', 'verify  password']",Normal
+673,673,"['enter  apple id  details', 'date of  birth', 'password', 'answer', 'security  question', 'verify  password', 'email']",Normal
+674,674,"['enter  apple id  details', 'date of  birth', 'password', 'answer', 'password', 'email', 'security  question', 'verify  password']",Anomalous
+675,675,"['enter  apple id  details', 'date of  birth', 'password', 'answer', 'email', 'verify  password', 'security  question']",Normal
+676,676,"['enter  apple id  details', 'date of  birth', 'password', 'answer', 'verify  password', 'security  question', 'email']",Normal
+677,677,"['enter  apple id  details', 'date of  birth', 'password', 'answer', 'verify  password', 'email', 'security  question']",Normal
+678,678,"['enter  apple id  details', 'date of  birth', 'password', 'security  question', 'answer', 'email', 'verify  password']",Normal
+679,679,"['enter  apple id  details', 'date of  birth', 'answer', 'email', 'password', 'security  question', 'security  question', 'date of  birth', 'answer', 'verify  password', 'email']",Anomalous
+680,680,"['enter  apple id  details', 'email', 'date of  birth', 'password', 'security  question', 'email', 'answer', 'verify  password']",Anomalous
+681,681,"['enter  apple id  details', 'date of  birth', 'password', 'security  question', 'email', 'verify  password', 'answer']",Normal
+682,682,"['enter  apple id  details', 'date of  birth', 'password', 'security  question', 'verify  password', 'answer', 'email']",Normal
+683,683,"['enter  apple id  details', 'date of  birth', 'enter  apple id  details', 'password', 'security  question', 'verify  password', 'email', 'answer']",Anomalous
+684,684,"['enter  apple id  details', 'date of  birth', 'password', 'verify  password', 'answer', 'security  question', 'email']",Normal
+685,685,"['enter  apple id  details', 'date of  birth', 'password', 'verify  password', 'answer', 'email', 'security  question']",Normal
+686,686,"['enter  apple id  details', 'date of  birth', 'password', 'enter  apple id  details', 'verify  password', 'security  question', 'answer', 'email']",Anomalous
+687,687,"['enter  apple id  details', 'date of  birth', 'password', 'verify  password', 'security  question', 'email', 'answer']",Normal
+688,688,"['enter  apple id  details', 'date of  birth', 'password', 'verify  password', 'email', 'answer', 'security  question']",Normal
+689,689,"['enter  apple id  details', 'date of  birth', 'answer', 'password', 'verify  password', 'email', 'security  question', 'date of  birth', 'answer']",Anomalous
+690,690,"['enter  apple id  details', 'date of  birth', 'password', 'email', 'answer', 'security  question', 'verify  password']",Normal
+691,691,"['enter  apple id  details', 'date of  birth', 'enter  apple id  details', 'password', 'email', 'answer', 'verify  password', 'security  question']",Anomalous
+692,692,"['enter  apple id  details', 'date of  birth', 'password', 'email', 'security  question', 'answer', 'verify  password']",Normal
+693,693,"['enter  apple id  details', 'date of  birth', 'password', 'email', 'security  question', 'verify  password', 'answer']",Normal
+694,694,"['enter  apple id  details', 'date of  birth', 'password', 'email', 'verify  password', 'date of  birth', 'answer', 'security  question']",Anomalous
+695,695,"['enter  apple id  details', 'date of  birth', 'password', 'email', 'verify  password', 'security  question', 'answer']",Normal
+696,696,"['enter  apple id  details', 'date of  birth', 'email', 'security  question', 'password', 'email', 'answer', 'password', 'security  question', 'verify  password', 'verify  password']",Anomalous
+697,697,"['enter  apple id  details', 'date of  birth', 'email', 'password', 'answer', 'verify  password', 'security  question']",Normal
+698,698,"['enter  apple id  details', 'date of  birth', 'email', 'email', 'password', 'security  question', 'answer', 'verify  password']",Anomalous
+699,699,"['enter  apple id  details', 'date of  birth', 'email', 'password', 'security  question', 'verify  password', 'answer']",Normal
+700,700,"['enter  apple id  details', 'date of  birth', 'email', 'password', 'verify  password', 'answer', 'security  question']",Normal
+701,701,"['enter  apple id  details', 'date of  birth', 'email', 'password', 'verify  password', 'security  question', 'answer']",Normal
+702,702,"['enter  apple id  details', 'date of  birth', 'email', 'answer', 'password', 'security  question', 'verify  password']",Normal
+703,703,"['enter  apple id  details', 'date of  birth', 'email', 'answer', 'password', 'verify  password', 'security  question']",Normal
+704,704,"['enter  apple id  details', 'date of  birth', 'email', 'answer', 'security  question', 'password', 'verify  password']",Normal
+705,705,"['enter  apple id  details', 'date of  birth', 'email', 'answer', 'security  question', 'verify  password', 'password']",Normal
+706,706,"['enter  apple id  details', 'date of  birth', 'email', 'answer', 'verify  password', 'security  question', 'password']",Normal
+707,707,"['verify  password', 'password', 'enter  apple id  details', 'date of  birth', 'email', 'answer', 'verify  password', 'password', 'security  question']",Anomalous
+708,708,"['enter  apple id  details', 'date of  birth', 'email', 'date of  birth', 'security  question', 'password', 'answer', 'verify  password']",Anomalous
+709,709,"['enter  apple id  details', 'date of  birth', 'email', 'security  question', 'password', 'verify  password', 'answer']",Normal
+710,710,"['enter  apple id  details', 'date of  birth', 'email', 'security  question', 'answer', 'password', 'verify  password']",Normal
+711,711,"['enter  apple id  details', 'date of  birth', 'email', 'security  question', 'answer', 'verify  password', 'password']",Normal
+712,712,"['enter  apple id  details', 'date of  birth', 'email', 'security  question', 'verify  password', 'enter  apple id  details', 'answer', 'password']",Anomalous
+713,713,"['enter  apple id  details', 'date of  birth', 'email', 'security  question', 'verify  password', 'password', 'answer']",Normal
+714,714,"['enter  apple id  details', 'date of  birth', 'email', 'verify  password', 'answer', 'security  question', 'password']",Normal
+715,715,"['enter  apple id  details', 'date of  birth', 'email', 'verify  password', 'verify  password', 'answer', 'password', 'enter  apple id  details', 'security  question']",Anomalous
+716,716,"['enter  apple id  details', 'date of  birth', 'email', 'verify  password', 'security  question', 'answer', 'password']",Normal
+717,717,"['enter  apple id  details', 'date of  birth', 'email', 'verify  password', 'security  question', 'password', 'answer', 'verify  password']",Anomalous
+718,718,"['answer', 'enter  apple id  details', 'date of  birth', 'email', 'verify  password', 'password', 'answer', 'security  question']",Anomalous
+719,719,"['enter  apple id  details', 'date of  birth', 'email', 'verify  password', 'password', 'security  question', 'answer']",Normal
+720,720,"['enter  apple id  details', 'verify  password', 'answer', 'date of  birth', 'security  question', 'email', 'password']",Normal
+721,721,"['enter  apple id  details', 'verify  password', 'answer', 'date of  birth', 'security  question', 'password', 'email']",Normal
+722,722,"['enter  apple id  details', 'answer', 'verify  password', 'answer', 'date of  birth', 'email', 'security  question', 'password']",Anomalous
+723,723,"['enter  apple id  details', 'verify  password', 'answer', 'date of  birth', 'email', 'security  question', 'password', 'security  question', 'date of  birth']",Anomalous
+724,724,"['enter  apple id  details', 'verify  password', 'answer', 'date of  birth', 'password', 'security  question', 'email']",Normal
+725,725,"['enter  apple id  details', 'verify  password', 'answer', 'date of  birth', 'password', 'email', 'security  question']",Normal
+726,726,"['enter  apple id  details', 'verify  password', 'answer', 'security  question', 'email', 'date of  birth', 'password']",Normal
+727,727,"['enter  apple id  details', 'verify  password', 'answer', 'security  question', 'email', 'password', 'password', 'date of  birth']",Anomalous
+728,728,"['enter  apple id  details', 'verify  password', 'enter  apple id  details', 'email', 'answer', 'security  question', 'date of  birth', 'email', 'password']",Anomalous
+729,729,"['enter  apple id  details', 'verify  password', 'answer', 'security  question', 'date of  birth', 'password', 'email']",Normal
+730,730,"['enter  apple id  details', 'verify  password', 'answer', 'security  question', 'password', 'email', 'date of  birth']",Normal
+731,731,"['verify  password', 'enter  apple id  details', 'verify  password', 'answer', 'security  question', 'password', 'date of  birth', 'email']",Anomalous
+732,732,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'security  question', 'date of  birth', 'password']",Normal
+733,733,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'security  question', 'password', 'date of  birth']",Normal
+734,734,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'date of  birth', 'security  question', 'password']",Normal
+735,735,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'date of  birth', 'password', 'security  question']",Normal
+736,736,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'password', 'security  question', 'date of  birth']",Normal
+737,737,"['enter  apple id  details', 'verify  password', 'answer', 'email', 'password', 'date of  birth', 'security  question']",Normal
+738,738,"['enter  apple id  details', 'verify  password', 'answer', 'date of  birth', 'password', 'security  question', 'email', 'date of  birth']",Anomalous
+739,739,"['password', 'enter  apple id  details', 'verify  password', 'answer', 'password', 'security  question', 'date of  birth', 'email']",Anomalous
+740,740,"['enter  apple id  details', 'verify  password', 'answer', 'password', 'email', 'security  question', 'date of  birth']",Normal
+741,741,"['enter  apple id  details', 'verify  password', 'answer', 'password', 'email', 'date of  birth', 'security  question']",Normal
+742,742,"['enter  apple id  details', 'verify  password', 'answer', 'password', 'date of  birth', 'security  question', 'email']",Normal
+743,743,"['enter  apple id  details', 'verify  password', 'answer', 'date of  birth', 'password', 'enter  apple id  details', 'date of  birth', 'password', 'email', 'answer', 'security  question']",Anomalous
+744,744,"['enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'answer', 'email', 'password']",Normal
+745,745,"['enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'answer', 'password', 'email']",Normal
+746,746,"['date of  birth', 'enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'email', 'answer', 'password']",Anomalous
+747,747,"['enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'email', 'password', 'answer']",Normal
+748,748,"['enter  apple id  details', 'verify  password', 'security  question', 'security  question', 'date of  birth', 'password', 'answer', 'email', 'verify  password']",Anomalous
+749,749,"['enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'password', 'email', 'answer']",Normal
+750,750,"['enter  apple id  details', 'verify  password', 'security  question', 'answer', 'email', 'date of  birth', 'password']",Normal
+751,751,"['enter  apple id  details', 'verify  password', 'security  question', 'answer', 'email', 'password', 'date of  birth']",Normal
+752,752,"['enter  apple id  details', 'verify  password', 'security  question', 'security  question', 'answer', 'date of  birth', 'email', 'password']",Anomalous
+753,753,"['enter  apple id  details', 'verify  password', 'security  question', 'answer', 'date of  birth', 'password', 'email']",Normal
+754,754,"['enter  apple id  details', 'verify  password', 'answer', 'security  question', 'answer', 'password', 'email', 'date of  birth']",Anomalous
+755,755,"['enter  apple id  details', 'verify  password', 'security  question', 'answer', 'password', 'date of  birth', 'email', 'email']",Anomalous
+756,756,"['enter  apple id  details', 'verify  password', 'security  question', 'email', 'email', 'answer', 'date of  birth', 'password']",Anomalous
+757,757,"['enter  apple id  details', 'verify  password', 'security  question', 'email', 'answer', 'password', 'date of  birth']",Normal
+758,758,"['enter  apple id  details', 'verify  password', 'security  question', 'email', 'date of  birth', 'answer', 'password']",Normal
+759,759,"['enter  apple id  details', 'verify  password', 'security  question', 'email', 'date of  birth', 'password', 'answer']",Normal
+760,760,"['enter  apple id  details', 'verify  password', 'enter  apple id  details', 'security  question', 'email', 'password', 'answer', 'date of  birth']",Anomalous
+761,761,"['enter  apple id  details', 'date of  birth', 'verify  password', 'verify  password', 'security  question', 'email', 'password', 'date of  birth', 'answer']",Anomalous
+762,762,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'answer', 'email', 'date of  birth']",Normal
+763,763,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'answer', 'date of  birth', 'email']",Normal
+764,764,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'email', 'answer', 'password', 'date of  birth']",Anomalous
+765,765,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'email', 'date of  birth', 'answer']",Normal
+766,766,"['enter  apple id  details', 'verify  password', 'security  question', 'password', 'date of  birth', 'answer', 'email']",Normal
+767,767,"['enter  apple id  details', 'security  question', 'verify  password', 'security  question', 'password', 'date of  birth', 'email', 'answer']",Anomalous
+768,768,"['verify  password', 'enter  apple id  details', 'verify  password', 'password', 'answer', 'verify  password', 'security  question', 'email', 'date of  birth', 'password']",Anomalous
+769,769,"['enter  apple id  details', 'verify  password', 'password', 'answer', 'security  question', 'date of  birth', 'email']",Normal
+770,770,"['answer', 'enter  apple id  details', 'enter  apple id  details', 'date of  birth', 'verify  password', 'password', 'answer', 'password', 'email', 'security  question', 'date of  birth']",Anomalous
+771,771,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'answer', 'email', 'date of  birth', 'security  question']",Anomalous
+772,772,"['enter  apple id  details', 'verify  password', 'password', 'answer', 'date of  birth', 'security  question', 'email']",Normal
+773,773,"['enter  apple id  details', 'verify  password', 'password', 'answer', 'date of  birth', 'email', 'security  question']",Normal
+774,774,"['enter  apple id  details', 'verify  password', 'password', 'security  question', 'email', 'answer', 'email', 'date of  birth']",Anomalous
+775,775,"['enter  apple id  details', 'verify  password', 'password', 'security  question', 'answer', 'date of  birth', 'email']",Normal
+776,776,"['enter  apple id  details', 'verify  password', 'password', 'security  question', 'email', 'answer', 'date of  birth']",Normal
+777,777,"['enter  apple id  details', 'verify  password', 'password', 'security  question', 'email', 'date of  birth', 'answer']",Normal
+778,778,"['enter  apple id  details', 'verify  password', 'password', 'security  question', 'date of  birth', 'security  question', 'answer', 'email', 'email']",Anomalous
+779,779,"['date of  birth', 'enter  apple id  details', 'verify  password', 'password', 'security  question', 'date of  birth', 'email', 'answer']",Anomalous
+780,780,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'answer', 'security  question', 'email']",Normal
+781,781,"['enter  apple id  details', 'verify  password', 'password', 'email', 'date of  birth', 'date of  birth', 'answer', 'email', 'security  question']",Anomalous
+782,782,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'security  question', 'answer', 'email']",Normal
+783,783,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'security  question', 'password', 'email', 'answer']",Anomalous
+784,784,"['enter  apple id  details', 'date of  birth', 'verify  password', 'password', 'date of  birth', 'email', 'answer', 'security  question']",Anomalous
+785,785,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'email', 'security  question', 'answer']",Normal
+786,786,"['enter  apple id  details', 'verify  password', 'password', 'email', 'answer', 'security  question', 'date of  birth']",Normal
+787,787,"['enter  apple id  details', 'date of  birth', 'verify  password', 'password', 'security  question', 'email', 'answer', 'date of  birth', 'security  question']",Anomalous
+788,788,"['enter  apple id  details', 'email', 'verify  password', 'password', 'email', 'security  question', 'answer', 'date of  birth']",Anomalous
+789,789,"['enter  apple id  details', 'verify  password', 'password', 'email', 'security  question', 'date of  birth', 'answer']",Normal
+790,790,"['enter  apple id  details', 'verify  password', 'password', 'email', 'date of  birth', 'answer', 'security  question']",Normal
+791,791,"['enter  apple id  details', 'date of  birth', 'verify  password', 'password', 'email', 'date of  birth', 'security  question', 'password', 'answer']",Anomalous
+792,792,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'answer', 'security  question', 'password']",Normal
+793,793,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'verify  password', 'answer', 'password', 'security  question']",Anomalous
+794,794,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'email', 'security  question', 'answer', 'password']",Anomalous
+795,795,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'security  question', 'password', 'answer']",Normal
+796,796,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'password', 'answer', 'security  question']",Normal
+797,797,"['enter  apple id  details', 'verify  password', 'email', 'date of  birth', 'password', 'security  question', 'answer']",Normal
+798,798,"['enter  apple id  details', 'verify  password', 'email', 'security  question', 'answer', 'security  question', 'date of  birth', 'password']",Anomalous
+799,799,"['enter  apple id  details', 'verify  password', 'email', 'answer', 'security  question', 'password', 'date of  birth']",Normal
+800,800,"['enter  apple id  details', 'verify  password', 'security  question', 'email', 'answer', 'date of  birth', 'security  question', 'password']",Anomalous
+801,801,"['enter  apple id  details', 'verify  password', 'email', 'answer', 'date of  birth', 'password', 'security  question']",Normal
+802,802,"['enter  apple id  details', 'verify  password', 'email', 'answer', 'password', 'security  question', 'date of  birth']",Normal
+803,803,"['enter  apple id  details', 'verify  password', 'email', 'answer', 'password', 'password', 'date of  birth', 'security  question']",Anomalous
+804,804,"['enter  apple id  details', 'verify  password', 'email', 'security  question', 'answer', 'date of  birth', 'password']",Normal
+805,805,"['enter  apple id  details', 'verify  password', 'email', 'security  question', 'answer', 'password', 'date of  birth']",Normal
+806,806,"['enter  apple id  details', 'verify  password', 'email', 'security  question', 'date of  birth', 'answer', 'password']",Normal
+807,807,"['enter  apple id  details', 'enter  apple id  details', 'verify  password', 'verify  password', 'email', 'security  question', 'date of  birth', 'password', 'answer']",Anomalous
+808,808,"['enter  apple id  details', 'verify  password', 'email', 'security  question', 'password', 'answer', 'date of  birth']",Normal
+809,809,"['enter  apple id  details', 'verify  password', 'email', 'security  question', 'password', 'date of  birth', 'answer']",Normal
+810,810,"['enter  apple id  details', 'verify  password', 'email', 'password', 'answer', 'security  question', 'date of  birth']",Normal
+811,811,"['enter  apple id  details', 'verify  password', 'email', 'password', 'answer', 'date of  birth', 'security  question']",Normal
+812,812,"['enter  apple id  details', 'verify  password', 'email', 'password', 'security  question', 'answer', 'date of  birth', 'email']",Anomalous
+813,813,"['enter  apple id  details', 'verify  password', 'email', 'password', 'security  question', 'date of  birth', 'answer']",Normal
+814,814,"['enter  apple id  details', 'verify  password', 'email', 'password', 'date of  birth', 'answer', 'security  question']",Normal
+815,815,"['enter  apple id  details', 'verify  password', 'email', 'password', 'date of  birth', 'security  question', 'answer']",Normal
+816,816,"['enter  apple id  details', 'verify  password', 'date of  birth', 'answer', 'security  question', 'email', 'password']",Normal
+817,817,"['date of  birth', 'enter  apple id  details', 'verify  password', 'date of  birth', 'answer', 'security  question', 'password', 'email']",Anomalous
+818,818,"['enter  apple id  details', 'verify  password', 'date of  birth', 'answer', 'email', 'security  question', 'password']",Normal
+819,819,"['enter  apple id  details', 'verify  password', 'date of  birth', 'answer', 'email', 'password', 'security  question']",Normal
+820,820,"['enter  apple id  details', 'verify  password', 'date of  birth', 'answer', 'password', 'security  question', 'email']",Normal
+821,821,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'answer', 'email', 'password', 'email', 'security  question']",Anomalous
+822,822,"['enter  apple id  details', 'verify  password', 'date of  birth', 'security  question', 'answer', 'email', 'password']",Normal
+823,823,"['enter  apple id  details', 'verify  password', 'password', 'date of  birth', 'security  question', 'answer', 'password', 'email']",Anomalous
+824,824,"['enter  apple id  details', 'verify  password', 'date of  birth', 'security  question', 'email', 'answer', 'password']",Normal
+825,825,"['enter  apple id  details', 'verify  password', 'date of  birth', 'security  question', 'email', 'password', 'answer']",Normal
+826,826,"['enter  apple id  details', 'verify  password', 'date of  birth', 'security  question', 'password', 'answer', 'email', 'password']",Anomalous
+827,827,"['enter  apple id  details', 'enter  apple id  details', 'verify  password', 'date of  birth', 'security  question', 'security  question', 'password', 'email', 'answer']",Anomalous
+828,828,"['enter  apple id  details', 'verify  password', 'date of  birth', 'password', 'answer', 'security  question', 'email']",Normal
+829,829,"['enter  apple id  details', 'verify  password', 'date of  birth', 'password', 'answer', 'email', 'security  question']",Normal
+830,830,"['enter  apple id  details', 'verify  password', 'date of  birth', 'password', 'security  question', 'answer', 'email']",Normal
+831,831,"['enter  apple id  details', 'verify  password', 'date of  birth', 'password', 'security  question', 'email', 'answer']",Normal
+832,832,"['enter  apple id  details', 'answer', 'verify  password', 'date of  birth', 'password', 'email', 'answer', 'security  question']",Anomalous
+833,833,"['enter  apple id  details', 'password', 'verify  password', 'date of  birth', 'password', 'email', 'password', 'security  question', 'answer', 'enter  apple id  details', 'answer', 'password']",Anomalous
+834,834,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'answer', 'security  question', 'password']",Normal
+835,835,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'answer', 'password', 'security  question']",Normal
+836,836,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'security  question', 'answer', 'password']",Normal
+837,837,"['enter  apple id  details', 'enter  apple id  details', 'verify  password', 'security  question', 'date of  birth', 'email', 'security  question', 'password', 'answer']",Anomalous
+838,838,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'password', 'answer', 'security  question']",Normal
+839,839,"['enter  apple id  details', 'verify  password', 'date of  birth', 'email', 'password', 'security  question', 'answer']",Normal
+840,840,"['enter  apple id  details', 'answer', 'verify  password', 'date of  birth', 'security  question', 'email', 'password']",Normal
+841,841,"['enter  apple id  details', 'answer', 'verify  password', 'verify  password', 'date of  birth', 'security  question', 'password', 'email']",Anomalous
+842,842,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'date of  birth', 'email', 'security  question', 'password']",Anomalous
+843,843,"['enter  apple id  details', 'enter  apple id  details', 'answer', 'verify  password', 'date of  birth', 'email', 'password', 'security  question']",Anomalous
+844,844,"['enter  apple id  details', 'answer', 'verify  password', 'date of  birth', 'password', 'security  question', 'email']",Normal
+845,845,"['enter  apple id  details', 'answer', 'verify  password', 'date of  birth', 'password', 'email', 'security  question']",Normal
+846,846,"['enter  apple id  details', 'answer', 'verify  password', 'security  question', 'email', 'date of  birth', 'password']",Normal
+847,847,"['enter  apple id  details', 'answer', 'verify  password', 'enter  apple id  details', 'security  question', 'email', 'password', 'date of  birth']",Anomalous
+848,848,"['enter  apple id  details', 'answer', 'verify  password', 'security  question', 'date of  birth', 'verify  password', 'email', 'password', 'email']",Anomalous
+849,849,"['enter  apple id  details', 'answer', 'verify  password', 'security  question', 'date of  birth', 'password', 'email']",Normal
+850,850,"['enter  apple id  details', 'answer', 'verify  password', 'security  question', 'password', 'email', 'date of  birth']",Normal
+851,851,"['enter  apple id  details', 'password', 'answer', 'verify  password', 'security  question', 'password', 'date of  birth', 'email']",Anomalous
+852,852,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'security  question', 'date of  birth', 'password']",Normal
+853,853,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'security  question', 'password', 'date of  birth']",Normal
+854,854,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'email', 'date of  birth', 'answer', 'security  question', 'password', 'password']",Anomalous
+855,855,"['enter  apple id  details', 'answer', 'verify  password', 'answer', 'email', 'date of  birth', 'password', 'security  question']",Anomalous
+856,856,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'password', 'security  question', 'date of  birth']",Normal
+857,857,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'password', 'date of  birth', 'security  question']",Normal
+858,858,"['enter  apple id  details', 'answer', 'verify  password', 'password', 'security  question', 'email', 'date of  birth']",Normal
+859,859,"['enter  apple id  details', 'answer', 'enter  apple id  details', 'verify  password', 'password', 'security  question', 'date of  birth', 'email']",Anomalous
+860,860,"['enter  apple id  details', 'answer', 'verify  password', 'password', 'email', 'security  question', 'date of  birth']",Normal
+861,861,"['enter  apple id  details', 'answer', 'verify  password', 'password', 'email', 'date of  birth', 'security  question']",Normal
+862,862,"['password', 'answer', 'verify  password', 'enter  apple id  details', 'date of  birth', 'answer', 'date of  birth', 'verify  password', 'password', 'date of  birth', 'security  question', 'email']",Anomalous
+863,863,"['enter  apple id  details', 'answer', 'verify  password', 'password', 'date of  birth', 'email', 'security  question']",Normal
+864,864,"['enter  apple id  details', 'answer', 'security  question', 'password', 'email', 'answer', 'date of  birth', 'verify  password']",Anomalous
+865,865,"['enter  apple id  details', 'answer', 'security  question', 'password', 'email', 'verify  password', 'date of  birth']",Normal
+866,866,"['enter  apple id  details', 'answer', 'security  question', 'password', 'date of  birth', 'date of  birth', 'email', 'verify  password']",Anomalous
+867,867,"['enter  apple id  details', 'answer', 'security  question', 'password', 'date of  birth', 'verify  password', 'email']",Normal
+868,868,"['email', 'answer', 'email', 'enter  apple id  details', 'enter  apple id  details', 'answer', 'security  question', 'password', 'verify  password', 'verify  password', 'email', 'password', 'date of  birth']",Anomalous
+869,869,"['enter  apple id  details', 'answer', 'security  question', 'password', 'verify  password', 'verify  password', 'date of  birth', 'enter  apple id  details', 'email']",Anomalous
+870,870,"['enter  apple id  details', 'answer', 'security  question', 'email', 'password', 'date of  birth', 'verify  password']",Normal
+871,871,"['enter  apple id  details', 'answer', 'security  question', 'email', 'password', 'verify  password', 'date of  birth']",Normal
+872,872,"['enter  apple id  details', 'answer', 'security  question', 'email', 'date of  birth', 'password', 'verify  password']",Normal
+873,873,"['enter  apple id  details', 'answer', 'security  question', 'email', 'date of  birth', 'verify  password', 'password']",Normal
+874,874,"['enter  apple id  details', 'answer', 'security  question', 'email', 'verify  password', 'date of  birth', 'password']",Normal
+875,875,"['enter  apple id  details', 'answer', 'security  question', 'email', 'verify  password', 'password', 'security  question', 'date of  birth', 'password']",Anomalous
+876,876,"['enter  apple id  details', 'answer', 'security  question', 'date of  birth', 'password', 'email', 'verify  password']",Normal
+877,877,"['enter  apple id  details', 'answer', 'security  question', 'date of  birth', 'password', 'verify  password', 'email']",Normal
+878,878,"['enter  apple id  details', 'answer', 'security  question', 'date of  birth', 'email', 'password', 'verify  password']",Normal
+879,879,"['enter  apple id  details', 'answer', 'security  question', 'date of  birth', 'email', 'verify  password', 'password']",Normal
+880,880,"['enter  apple id  details', 'verify  password', 'answer', 'security  question', 'date of  birth', 'enter  apple id  details', 'verify  password', 'email', 'password']",Anomalous
+881,881,"['enter  apple id  details', 'answer', 'security  question', 'date of  birth', 'verify  password', 'password', 'email']",Normal
+882,882,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'security  question', 'email', 'date of  birth', 'password']",Anomalous
+883,883,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'email', 'password', 'date of  birth']",Normal
+884,884,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'answer', 'date of  birth', 'email', 'password']",Anomalous
+885,885,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'date of  birth', 'password', 'email', 'answer']",Anomalous
+886,886,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'password', 'email', 'date of  birth', 'security  question']",Anomalous
+887,887,"['enter  apple id  details', 'answer', 'security  question', 'verify  password', 'password', 'date of  birth', 'email']",Normal
+888,888,"['enter  apple id  details', 'answer', 'password', 'date of  birth', 'security  question', 'email', 'verify  password']",Normal
+889,889,"['enter  apple id  details', 'answer', 'password', 'date of  birth', 'security  question', 'email', 'verify  password', 'email']",Anomalous
+890,890,"['enter  apple id  details', 'answer', 'password', 'date of  birth', 'verify  password', 'email', 'security  question', 'verify  password']",Anomalous
+891,891,"['date of  birth', 'enter  apple id  details', 'answer', 'verify  password', 'password', 'email', 'date of  birth', 'email', 'email', 'verify  password', 'security  question']",Anomalous
+892,892,"['enter  apple id  details', 'answer', 'password', 'date of  birth', 'verify  password', 'security  question', 'email']",Normal
+893,893,"['enter  apple id  details', 'answer', 'password', 'enter  apple id  details', 'date of  birth', 'verify  password', 'email', 'security  question']",Anomalous
+894,894,"['answer', 'enter  apple id  details', 'answer', 'password', 'security  question', 'email', 'date of  birth', 'password', 'verify  password']",Anomalous
+895,895,"['enter  apple id  details', 'answer', 'password', 'security  question', 'email', 'verify  password', 'date of  birth']",Normal
+896,896,"['enter  apple id  details', 'answer', 'password', 'security  question', 'date of  birth', 'email', 'verify  password']",Normal
+897,897,"['enter  apple id  details', 'answer', 'password', 'security  question', 'date of  birth', 'verify  password', 'email', 'email']",Anomalous
+898,898,"['enter  apple id  details', 'answer', 'password', 'security  question', 'verify  password', 'email', 'date of  birth']",Normal
+899,899,"['verify  password', 'enter  apple id  details', 'answer', 'password', 'security  question', 'verify  password', 'date of  birth', 'email']",Anomalous
+900,900,"['enter  apple id  details', 'answer', 'password', 'email', 'security  question', 'date of  birth', 'verify  password']",Normal
+901,901,"['enter  apple id  details', 'answer', 'password', 'email', 'security  question', 'verify  password', 'date of  birth']",Normal
+902,902,"['enter  apple id  details', 'answer', 'email', 'password', 'email', 'date of  birth', 'security  question', 'verify  password']",Anomalous
+903,903,"['enter  apple id  details', 'answer', 'password', 'email', 'date of  birth', 'verify  password', 'security  question']",Normal
+904,904,"['enter  apple id  details', 'answer', 'password', 'email', 'verify  password', 'security  question', 'date of  birth']",Normal
+905,905,"['enter  apple id  details', 'answer', 'password', 'email', 'verify  password', 'date of  birth', 'security  question']",Normal
+906,906,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'security  question', 'email', 'date of  birth', 'answer', 'date of  birth']",Anomalous
+907,907,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'security  question', 'date of  birth', 'email']",Normal
+908,908,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'email', 'security  question', 'date of  birth']",Normal
+909,909,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'email', 'date of  birth', 'security  question']",Normal
+910,910,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'date of  birth', 'security  question', 'email']",Normal
+911,911,"['enter  apple id  details', 'answer', 'password', 'verify  password', 'date of  birth', 'email', 'security  question']",Normal
+912,912,"['enter  apple id  details', 'answer', 'email', 'email', 'security  question', 'password', 'security  question', 'date of  birth', 'verify  password']",Anomalous
+913,913,"['enter  apple id  details', 'answer', 'email', 'password', 'date of  birth', 'security  question', 'verify  password', 'security  question', 'verify  password', 'email', 'date of  birth']",Anomalous
+914,914,"['enter  apple id  details', 'answer', 'email', 'date of  birth', 'email', 'date of  birth', 'password', 'date of  birth', 'enter  apple id  details', 'verify  password', 'security  question', 'verify  password']",Anomalous
+915,915,"['enter  apple id  details', 'answer', 'email', 'password', 'date of  birth', 'date of  birth', 'verify  password', 'security  question']",Anomalous
+916,916,"['enter  apple id  details', 'answer', 'email', 'password', 'verify  password', 'enter  apple id  details', 'security  question', 'date of  birth']",Anomalous
+917,917,"['enter  apple id  details', 'answer', 'email', 'verify  password', 'password', 'verify  password', 'date of  birth', 'security  question']",Anomalous
+918,918,"['enter  apple id  details', 'answer', 'email', 'security  question', 'password', 'date of  birth', 'verify  password']",Normal
+919,919,"['enter  apple id  details', 'answer', 'email', 'security  question', 'password', 'verify  password', 'date of  birth']",Normal
+920,920,"['enter  apple id  details', 'email', 'answer', 'email', 'security  question', 'date of  birth', 'password', 'verify  password']",Anomalous
+921,921,"['enter  apple id  details', 'answer', 'email', 'password', 'security  question', 'date of  birth', 'verify  password', 'verify  password', 'enter  apple id  details', 'password']",Anomalous
+922,922,"['enter  apple id  details', 'email', 'answer', 'email', 'security  question', 'verify  password', 'date of  birth', 'password']",Anomalous
+923,923,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'email', 'security  question', 'verify  password', 'password', 'date of  birth']",Anomalous
+924,924,"['enter  apple id  details', 'password', 'answer', 'email', 'date of  birth', 'password', 'security  question', 'verify  password']",Anomalous
+925,925,"['enter  apple id  details', 'answer', 'email', 'date of  birth', 'password', 'verify  password', 'date of  birth', 'security  question']",Anomalous
+926,926,"['email', 'answer', 'enter  apple id  details', 'answer', 'email', 'date of  birth', 'security  question', 'password', 'verify  password', 'enter  apple id  details']",Anomalous
+927,927,"['enter  apple id  details', 'answer', 'email', 'date of  birth', 'security  question', 'verify  password', 'password']",Normal
+928,928,"['enter  apple id  details', 'answer', 'email', 'date of  birth', 'verify  password', 'security  question', 'password']",Normal
+929,929,"['enter  apple id  details', 'answer', 'email', 'date of  birth', 'verify  password', 'password', 'security  question', 'email']",Anomalous
+930,930,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'verify  password', 'security  question', 'date of  birth', 'password']",Anomalous
+931,931,"['enter  apple id  details', 'answer', 'email', 'verify  password', 'security  question', 'password', 'date of  birth']",Normal
+932,932,"['enter  apple id  details', 'answer', 'email', 'verify  password', 'date of  birth', 'security  question', 'password']",Normal
+933,933,"['enter  apple id  details', 'answer', 'email', 'verify  password', 'date of  birth', 'password', 'security  question']",Normal
+934,934,"['enter  apple id  details', 'answer', 'verify  password', 'email', 'verify  password', 'verify  password', 'password', 'security  question', 'date of  birth', 'verify  password']",Anomalous
+935,935,"['enter  apple id  details', 'answer', 'email', 'verify  password', 'password', 'date of  birth', 'security  question']",Normal
+936,936,"['enter  apple id  details', 'answer', 'date of  birth', 'password', 'security  question', 'email', 'verify  password']",Normal
+937,937,"['enter  apple id  details', 'answer', 'date of  birth', 'verify  password', 'password', 'answer', 'security  question', 'verify  password', 'email']",Anomalous
+938,938,"['enter  apple id  details', 'answer', 'date of  birth', 'password', 'email', 'security  question', 'verify  password']",Normal
+939,939,"['enter  apple id  details', 'answer', 'date of  birth', 'password', 'email', 'verify  password', 'answer', 'security  question']",Anomalous
+940,940,"['enter  apple id  details', 'answer', 'date of  birth', 'password', 'verify  password', 'security  question', 'email', 'answer', 'email']",Anomalous
+941,941,"['enter  apple id  details', 'answer', 'date of  birth', 'password', 'verify  password', 'email', 'security  question']",Normal
+942,942,"['enter  apple id  details', 'answer', 'date of  birth', 'security  question', 'password', 'email', 'verify  password']",Normal
+943,943,"['enter  apple id  details', 'answer', 'date of  birth', 'security  question', 'password', 'verify  password', 'email']",Normal
+944,944,"['enter  apple id  details', 'answer', 'date of  birth', 'security  question', 'email', 'password', 'verify  password']",Normal
+945,945,"['enter  apple id  details', 'answer', 'date of  birth', 'security  question', 'email', 'verify  password', 'password']",Normal
+946,946,"['enter  apple id  details', 'answer', 'date of  birth', 'security  question', 'verify  password', 'email', 'password', 'answer']",Anomalous
+947,947,"['enter  apple id  details', 'email', 'answer', 'verify  password', 'date of  birth', 'security  question', 'verify  password', 'password', 'email']",Anomalous
+948,948,"['enter  apple id  details', 'answer', 'email', 'date of  birth', 'email', 'password', 'password', 'enter  apple id  details', 'security  question', 'verify  password']",Anomalous
+949,949,"['enter  apple id  details', 'answer', 'date of  birth', 'email', 'password', 'verify  password', 'security  question']",Normal
+950,950,"['enter  apple id  details', 'answer', 'date of  birth', 'email', 'security  question', 'password', 'verify  password', 'date of  birth']",Anomalous
+951,951,"['enter  apple id  details', 'answer', 'answer', 'date of  birth', 'date of  birth', 'email', 'enter  apple id  details', 'security  question', 'verify  password', 'password']",Anomalous
+952,952,"['enter  apple id  details', 'answer', 'date of  birth', 'email', 'verify  password', 'security  question', 'password']",Normal
+953,953,"['enter  apple id  details', 'answer', 'date of  birth', 'email', 'verify  password', 'password', 'security  question']",Normal
+954,954,"['enter  apple id  details', 'answer', 'date of  birth', 'verify  password', 'security  question', 'email', 'enter  apple id  details', 'password']",Anomalous
+955,955,"['enter  apple id  details', 'answer', 'date of  birth', 'date of  birth', 'verify  password', 'verify  password', 'security  question', 'password', 'email']",Anomalous
+956,956,"['enter  apple id  details', 'answer', 'date of  birth', 'verify  password', 'email', 'security  question', 'password']",Normal
+957,957,"['enter  apple id  details', 'answer', 'date of  birth', 'verify  password', 'email', 'password', 'security  question']",Normal
+958,958,"['enter  apple id  details', 'answer', 'date of  birth', 'security  question', 'verify  password', 'verify  password', 'email', 'answer', 'password', 'security  question', 'security  question', 'email']",Anomalous
+959,959,"['enter  apple id  details', 'answer', 'date of  birth', 'verify  password', 'password', 'email', 'security  question']",Normal
+960,960,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'answer', 'email', 'password']",Normal
+961,961,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'answer', 'password', 'email']",Normal
+962,962,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'email', 'answer', 'password']",Normal
+963,963,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'email', 'password', 'answer']",Normal
+964,964,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'password', 'answer', 'email']",Normal
+965,965,"['enter  apple id  details', 'security  question', 'verify  password', 'date of  birth', 'password', 'email', 'answer']",Normal
+966,966,"['enter  apple id  details', 'email', 'security  question', 'verify  password', 'answer', 'security  question', 'email', 'date of  birth', 'date of  birth', 'password']",Anomalous
+967,967,"['enter  apple id  details', 'security  question', 'verify  password', 'answer', 'email', 'password', 'security  question', 'date of  birth']",Anomalous
+968,968,"['enter  apple id  details', 'security  question', 'verify  password', 'answer', 'date of  birth', 'email', 'enter  apple id  details', 'password', 'verify  password', 'date of  birth']",Anomalous
+969,969,"['enter  apple id  details', 'security  question', 'verify  password', 'answer', 'date of  birth', 'password', 'email']",Normal
+970,970,"['enter  apple id  details', 'security  question', 'verify  password', 'answer', 'password', 'email', 'date of  birth']",Normal
+971,971,"['enter  apple id  details', 'security  question', 'verify  password', 'answer', 'password', 'date of  birth', 'email']",Normal
+972,972,"['enter  apple id  details', 'security  question', 'verify  password', 'email', 'answer', 'date of  birth', 'password']",Normal
+973,973,"['verify  password', 'enter  apple id  details', 'security  question', 'verify  password', 'email', 'answer', 'password', 'password', 'date of  birth']",Anomalous
+974,974,"['enter  apple id  details', 'email', 'security  question', 'verify  password', 'email', 'date of  birth', 'answer', 'password']",Anomalous
+975,975,"['enter  apple id  details', 'security  question', 'verify  password', 'email', 'email', 'date of  birth', 'password', 'answer', 'security  question']",Anomalous
+976,976,"['enter  apple id  details', 'password', 'security  question', 'verify  password', 'email', 'password', 'answer', 'date of  birth']",Anomalous
+977,977,"['enter  apple id  details', 'security  question', 'verify  password', 'email', 'password', 'date of  birth', 'answer']",Normal
+978,978,"['enter  apple id  details', 'security  question', 'verify  password', 'password', 'answer', 'email', 'answer', 'email', 'date of  birth']",Anomalous
+979,979,"['enter  apple id  details', 'security  question', 'verify  password', 'email', 'password', 'password', 'answer', 'date of  birth', 'email']",Anomalous
+980,980,"['date of  birth', 'enter  apple id  details', 'date of  birth', 'security  question', 'security  question', 'email', 'verify  password', 'password', 'email', 'answer', 'enter  apple id  details', 'date of  birth', 'date of  birth']",Anomalous
+981,981,"['enter  apple id  details', 'security  question', 'verify  password', 'password', 'answer', 'email', 'date of  birth', 'answer']",Anomalous
+982,982,"['enter  apple id  details', 'security  question', 'enter  apple id  details', 'verify  password', 'email', 'password', 'date of  birth', 'email', 'answer', 'email']",Anomalous
+983,983,"['enter  apple id  details', 'security  question', 'verify  password', 'password', 'date of  birth', 'email', 'answer']",Normal
+984,984,"['enter  apple id  details', 'security  question', 'answer', 'password', 'email', 'date of  birth', 'verify  password']",Normal
+985,985,"['enter  apple id  details', 'security  question', 'answer', 'password', 'email', 'verify  password', 'date of  birth']",Normal
+986,986,"['enter  apple id  details', 'security  question', 'answer', 'password', 'date of  birth', 'email', 'verify  password']",Normal
+987,987,"['enter  apple id  details', 'security  question', 'answer', 'password', 'date of  birth', 'verify  password', 'verify  password', 'email']",Anomalous
+988,988,"['enter  apple id  details', 'security  question', 'answer', 'password', 'verify  password', 'password', 'email', 'date of  birth']",Anomalous
+989,989,"['enter  apple id  details', 'security  question', 'answer', 'password', 'password', 'verify  password', 'date of  birth', 'email']",Anomalous
+990,990,"['security  question', 'enter  apple id  details', 'security  question', 'answer', 'email', 'email', 'password', 'date of  birth', 'date of  birth', 'email', 'verify  password', 'verify  password']",Anomalous
+991,991,"['enter  apple id  details', 'security  question', 'answer', 'email', 'password', 'verify  password', 'date of  birth']",Normal
+992,992,"['enter  apple id  details', 'security  question', 'answer', 'security  question', 'email', 'date of  birth', 'password', 'verify  password']",Anomalous
+993,993,"['enter  apple id  details', 'security  question', 'answer', 'email', 'email', 'date of  birth', 'verify  password', 'password']",Anomalous
+994,994,"['enter  apple id  details', 'security  question', 'answer', 'email', 'verify  password', 'date of  birth', 'password', 'password']",Anomalous
+995,995,"['enter  apple id  details', 'security  question', 'answer', 'email', 'password', 'verify  password', 'enter  apple id  details', 'password', 'date of  birth']",Anomalous
+996,996,"['enter  apple id  details', 'security  question', 'answer', 'date of  birth', 'password', 'email', 'verify  password']",Normal
+997,997,"['enter  apple id  details', 'security  question', 'answer', 'date of  birth', 'password', 'verify  password', 'email']",Normal
+998,998,"['enter  apple id  details', 'security  question', 'email', 'date of  birth', 'answer', 'enter  apple id  details', 'date of  birth', 'email', 'password', 'verify  password']",Anomalous
+999,999,"['enter  apple id  details', 'security  question', 'answer', 'date of  birth', 'email', 'verify  password', 'password']",Normal

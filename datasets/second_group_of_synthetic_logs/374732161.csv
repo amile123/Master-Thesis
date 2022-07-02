@@ -1,0 +1,1420 @@
+,ID,concept:name,Status
+0,0,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1,1,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+2,2,"['Authorizing access rights', 'Retrieving the Pointer Info', 'capturing information of an object id']",Anomalous
+3,3,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+4,4,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+5,5,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+6,6,"['Authorizing access rights', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id']",Anomalous
+7,7,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+8,8,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+9,9,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+10,10,"['Authorizing access rights', 'authenting and  authorizing', 'authenticating', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info', 'capturing information of an object id']",Anomalous
+11,11,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+12,12,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+13,13,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds', 'Authorizing access rights', 'authenting and  authorizing', 'authenting and  authorizing']",Anomalous
+14,14,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+15,15,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+16,16,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+17,17,"['capturing information of an object id', 'Sending the detailed info to the requester', 'Authorizing access rights', 'capturing information of an object id', 'Retrieving the Pointer Info']",Anomalous
+18,18,"['authenting and  authorizing', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+19,19,"['Authorizing access rights', 'Retrieving the Pointer Info', 'storing and updating  key info  of object i ds']",Anomalous
+20,20,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+21,21,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+22,22,"['Authorizing access rights', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+23,23,"['Authorizing access rights', 'storing and updating  key info  of object i ds', 'Retrieving the Pointer Info']",Anomalous
+24,24,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+25,25,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+26,26,"['authenticating', 'authenticating', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+27,27,"['Authorizing access rights', 'Retrieving the Pointer Info', 'authenting and  authorizing']",Anomalous
+28,28,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+29,29,"['Authorizing access rights', 'storing and updating  key info  of object i ds', 'Retrieving the Pointer Info']",Anomalous
+30,30,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+31,31,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+32,32,"['updating the key events onto ads', 'authenticating', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+33,33,"['authenticating', 'storing and updating  key info  of object i ds', 'Authorizing access rights']",Anomalous
+34,34,"['Authorizing access rights', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+35,35,"['Sending the detailed info to the requester', 'authenticating', 'storing and updating  key info  of object i ds', 'updating the key events onto ads']",Anomalous
+36,36,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+37,37,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+38,38,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+39,39,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+40,40,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Authorizing access rights']",Anomalous
+41,41,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+42,42,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+43,43,"['authenting and  authorizing', 'authenticating', 'Sending the detailed info to the requester']",Anomalous
+44,44,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+45,45,"['storing and updating  key info  of object i ds', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+46,46,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+47,47,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+48,48,"['Authorizing access rights', 'storing and updating the detailed info of an object id', 'Retrieving the Pointer Info']",Anomalous
+49,49,"['Authorizing access rights', 'storing and updating the detailed info of an object id', 'Retrieving the Pointer Info']",Anomalous
+50,50,"['Authorizing access rights', 'Retrieving the Pointer Info', 'Retrieving the Pointer Info']",Anomalous
+51,51,"['authenticating', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+52,52,"['authenticating', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+53,53,"['authenticating', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+54,54,"['Authorizing access rights', 'Retrieving the Pointer Info', 'updating the key events onto ads', 'Authorizing access rights', 'storing and updating  key info  of object i ds']",Anomalous
+55,55,"['authenticating', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+56,56,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds']",Anomalous
+57,57,"['authenticating', 'capturing information of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+58,58,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+59,59,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+60,60,"['Authorizing access rights', 'authenting and  authorizing', 'Retrieving the Pointer Info']",Anomalous
+61,61,"['storing and updating  key info  of object i ds', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+62,62,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+63,63,"['authenting and  authorizing', 'authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds']",Anomalous
+64,64,"['storing and updating the detailed info of an object id', 'Sending the detailed info to the requester', 'capturing information of an object id', 'authenticating', 'storing and updating  key info  of object i ds', 'updating the key events onto ads']",Anomalous
+65,65,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+66,66,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+67,67,"['authenticating', 'storing and updating  key info  of object i ds', 'authenticating']",Anomalous
+68,68,"['Sending the detailed info to the requester', 'Authorizing access rights', 'Retrieving the Pointer Info', 'Retrieving the Pointer Info']",Anomalous
+69,69,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+70,70,"['Authorizing access rights', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+71,71,"['storing and updating the detailed info of an object id', 'Authorizing access rights', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+72,72,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+73,73,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+74,74,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+75,75,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+76,76,"['authenticating', 'authenting and  authorizing', 'storing and updating  key info  of object i ds']",Anomalous
+77,77,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+78,78,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+79,79,"['authenticating', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+80,80,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+81,81,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+82,82,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+83,83,"['Retrieving the Pointer Info', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+84,84,"['Authorizing access rights', 'capturing information of an object id', 'capturing information of an object id', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+85,85,"['updating the key events onto ads', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+86,86,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+87,87,"['storing and updating  key info  of object i ds', 'authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+88,88,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Authorizing access rights']",Anomalous
+89,89,"['updating the key events onto ads', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+90,90,"['Retrieving the Pointer Info', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+91,91,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenticating']",Anomalous
+92,92,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+93,93,"['Retrieving the Pointer Info', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+94,94,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+95,95,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+96,96,"['authenting and  authorizing', 'capturing information of an object id', 'Sending the detailed info to the requester']",Anomalous
+97,97,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+98,98,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+99,99,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+100,100,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+101,101,"['capturing information of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+102,102,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+103,103,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+104,104,"['Sending the detailed info to the requester', 'authenting and  authorizing', 'authenting and  authorizing', 'capturing information of an object id', 'Sending the detailed info to the requester']",Anomalous
+105,105,"['Sending the detailed info to the requester', 'updating the key events onto ads', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+106,106,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+107,107,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+108,108,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+109,109,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+110,110,"['authenticating', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+111,111,"['updating the key events onto ads', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id']",Anomalous
+112,112,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+113,113,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+114,114,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+115,115,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+116,116,"['Retrieving the Pointer Info', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+117,117,"['storing and updating the detailed info of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+118,118,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+119,119,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+120,120,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+121,121,"['Authorizing access rights', 'Authorizing access rights', 'Retrieving the Pointer Info', 'capturing information of an object id', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+122,122,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+123,123,"['storing and updating  key info  of object i ds', 'Authorizing access rights', 'Retrieving the Pointer Info', 'authenticating']",Anomalous
+124,124,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+125,125,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+126,126,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+127,127,"['authenticating', 'authenting and  authorizing', 'storing and updating  key info  of object i ds', 'Authorizing access rights']",Anomalous
+128,128,"['Retrieving the Pointer Info', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+129,129,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+130,130,"['Authorizing access rights', 'Retrieving the Pointer Info', 'Retrieving the Pointer Info']",Anomalous
+131,131,"['storing and updating the detailed info of an object id', 'Authorizing access rights', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id']",Anomalous
+132,132,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+133,133,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+134,134,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+135,135,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+136,136,"['authenticating', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+137,137,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+138,138,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds']",Anomalous
+139,139,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+140,140,"['Sending the detailed info to the requester', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Authorizing access rights', 'Retrieving the Pointer Info', 'updating the key events onto ads', 'authenticating']",Anomalous
+141,141,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+142,142,"['Authorizing access rights', 'authenting and  authorizing', 'authenting and  authorizing', 'Retrieving the Pointer Info']",Anomalous
+143,143,"['Authorizing access rights', 'Retrieving the Pointer Info', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'Authorizing access rights']",Anomalous
+144,144,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+145,145,"['storing and updating  key info  of object i ds', 'authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds']",Anomalous
+146,146,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+147,147,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+148,148,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+149,149,"['authenticating', 'storing and updating  key info  of object i ds', 'authenting and  authorizing']",Anomalous
+150,150,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+151,151,"['capturing information of an object id', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+152,152,"['Sending the detailed info to the requester', 'authenticating', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+153,153,"['authenticating', 'Retrieving the Pointer Info', 'storing and updating  key info  of object i ds']",Anomalous
+154,154,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+155,155,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+156,156,"['storing and updating the detailed info of an object id', 'authenticating', 'Sending the detailed info to the requester', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+157,157,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+158,158,"['Authorizing access rights', 'Retrieving the Pointer Info', 'authenticating']",Anomalous
+159,159,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+160,160,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+161,161,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+162,162,"['updating the key events onto ads', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+163,163,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+164,164,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+165,165,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+166,166,"['Sending the detailed info to the requester', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+167,167,"['Authorizing access rights', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+168,168,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+169,169,"['Authorizing access rights', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+170,170,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+171,171,"['Sending the detailed info to the requester', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+172,172,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+173,173,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+174,174,"['Retrieving the Pointer Info', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+175,175,"['authenting and  authorizing', 'authenticating', 'Sending the detailed info to the requester']",Anomalous
+176,176,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+177,177,"['authenting and  authorizing', 'storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+178,178,"['capturing information of an object id', 'Authorizing access rights', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+179,179,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+180,180,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+181,181,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+182,182,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+183,183,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+184,184,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+185,185,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+186,186,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+187,187,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+188,188,"['authenting and  authorizing', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester']",Anomalous
+189,189,"['authenting and  authorizing', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester']",Anomalous
+190,190,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+191,191,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'capturing information of an object id']",Anomalous
+192,192,"['capturing information of an object id', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+193,193,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+194,194,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+195,195,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+196,196,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+197,197,"['authenting and  authorizing', 'capturing information of an object id', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+198,198,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+199,199,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id']",Anomalous
+200,200,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+201,201,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenticating', 'updating the key events onto ads']",Anomalous
+202,202,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+203,203,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'updating the key events onto ads']",Anomalous
+204,204,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+205,205,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+206,206,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+207,207,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+208,208,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'Authorizing access rights', 'updating the key events onto ads']",Anomalous
+209,209,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+210,210,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+211,211,"['Authorizing access rights', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+212,212,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+213,213,"['authenting and  authorizing', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester', 'capturing information of an object id']",Anomalous
+214,214,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+215,215,"['authenticating', 'Retrieving the Pointer Info', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+216,216,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+217,217,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+218,218,"['capturing information of an object id', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+219,219,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+220,220,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+221,221,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+222,222,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+223,223,"['authenting and  authorizing', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester']",Anomalous
+224,224,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+225,225,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+226,226,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+227,227,"['capturing information of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'capturing information of an object id']",Anomalous
+228,228,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'capturing information of an object id']",Anomalous
+229,229,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+230,230,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+231,231,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+232,232,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+233,233,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenting and  authorizing']",Anomalous
+234,234,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'capturing information of an object id', 'Retrieving the Pointer Info']",Anomalous
+235,235,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+236,236,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+237,237,"['authenting and  authorizing', 'authenticating', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id']",Anomalous
+238,238,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info']",Anomalous
+239,239,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+240,240,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+241,241,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+242,242,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+243,243,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+244,244,"['authenting and  authorizing', 'authenting and  authorizing', 'Authorizing access rights', 'Sending the detailed info to the requester']",Anomalous
+245,245,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+246,246,"['authenticating', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'capturing information of an object id', 'updating the key events onto ads']",Anomalous
+247,247,"['capturing information of an object id', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+248,248,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Retrieving the Pointer Info', 'Authorizing access rights']",Anomalous
+249,249,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenticating', 'updating the key events onto ads']",Anomalous
+250,250,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+251,251,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+252,252,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+253,253,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+254,254,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'Retrieving the Pointer Info', 'updating the key events onto ads']",Anomalous
+255,255,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+256,256,"['authenting and  authorizing', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+257,257,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenting and  authorizing']",Anomalous
+258,258,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+259,259,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+260,260,"['authenticating', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+261,261,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenticating', 'updating the key events onto ads']",Anomalous
+262,262,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+263,263,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+264,264,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+265,265,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+266,266,"['Authorizing access rights', 'Authorizing access rights', 'Authorizing access rights', 'Retrieving the Pointer Info', 'updating the key events onto ads', 'Retrieving the Pointer Info']",Anomalous
+267,267,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+268,268,"['Sending the detailed info to the requester', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+269,269,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+270,270,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+271,271,"['Authorizing access rights', 'storing and updating  key info  of object i ds', 'Retrieving the Pointer Info']",Anomalous
+272,272,"['storing and updating the detailed info of an object id', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+273,273,"['authenticating', 'storing and updating  key info  of object i ds', 'authenting and  authorizing']",Anomalous
+274,274,"['authenticating', 'storing and updating  key info  of object i ds', 'updating the key events onto ads', 'storing and updating the detailed info of an object id']",Anomalous
+275,275,"['storing and updating  key info  of object i ds', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+276,276,"['authenting and  authorizing', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+277,277,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+278,278,"['Authorizing access rights', 'Retrieving the Pointer Info', 'storing and updating  key info  of object i ds']",Anomalous
+279,279,"['Retrieving the Pointer Info', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+280,280,"['Authorizing access rights', 'authenticating', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+281,281,"['authenticating', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'authenticating', 'storing and updating  key info  of object i ds', 'authenting and  authorizing']",Anomalous
+282,282,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+283,283,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+284,284,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+285,285,"['authenticating', 'storing and updating  key info  of object i ds', 'updating the key events onto ads']",Anomalous
+286,286,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+287,287,"['Authorizing access rights', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info']",Anomalous
+288,288,"['Authorizing access rights', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+289,289,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+290,290,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+291,291,"['storing and updating  key info  of object i ds', 'authenticating', 'capturing information of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+292,292,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+293,293,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id']",Anomalous
+294,294,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+295,295,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+296,296,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+297,297,"['authenticating', 'storing and updating  key info  of object i ds', 'Authorizing access rights']",Anomalous
+298,298,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+299,299,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+300,300,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+301,301,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+302,302,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+303,303,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+304,304,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+305,305,"['Authorizing access rights', 'Retrieving the Pointer Info', 'Retrieving the Pointer Info']",Anomalous
+306,306,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+307,307,"['authenticating', 'authenting and  authorizing', 'storing and updating  key info  of object i ds']",Anomalous
+308,308,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+309,309,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+310,310,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds', 'Authorizing access rights']",Anomalous
+311,311,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+312,312,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+313,313,"['capturing information of an object id', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+314,314,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+315,315,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+316,316,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+317,317,"['updating the key events onto ads', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+318,318,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+319,319,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+320,320,"['capturing information of an object id', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+321,321,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+322,322,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+323,323,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+324,324,"['Authorizing access rights', 'Retrieving the Pointer Info', 'Retrieving the Pointer Info']",Anomalous
+325,325,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+326,326,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+327,327,"['authenticating', 'authenticating', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+328,328,"['storing and updating  key info  of object i ds', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+329,329,"['authenticating', 'Authorizing access rights', 'Retrieving the Pointer Info', 'storing and updating  key info  of object i ds', 'authenting and  authorizing', 'Retrieving the Pointer Info']",Anomalous
+330,330,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+331,331,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+332,332,"['authenticating', 'authenting and  authorizing', 'Authorizing access rights', 'storing and updating  key info  of object i ds']",Anomalous
+333,333,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds']",Anomalous
+334,334,"['Sending the detailed info to the requester', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+335,335,"['storing and updating the detailed info of an object id', 'authenticating', 'Authorizing access rights', 'storing and updating  key info  of object i ds']",Anomalous
+336,336,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+337,337,"['storing and updating the detailed info of an object id', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+338,338,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+339,339,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+340,340,"['authenting and  authorizing', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+341,341,"['authenticating', 'capturing information of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+342,342,"['authenticating', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+343,343,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+344,344,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+345,345,"['authenticating', 'capturing information of an object id', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+346,346,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+347,347,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+348,348,"['authenticating', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester']",Anomalous
+349,349,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+350,350,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester', 'Authorizing access rights']",Anomalous
+351,351,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+352,352,"['authenting and  authorizing', 'updating the key events onto ads', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+353,353,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+354,354,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+355,355,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+356,356,"['authenting and  authorizing', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester']",Anomalous
+357,357,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+358,358,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+359,359,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+360,360,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+361,361,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id']",Anomalous
+362,362,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+363,363,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+364,364,"['authenting and  authorizing', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester']",Anomalous
+365,365,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+366,366,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+367,367,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+368,368,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+369,369,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenticating']",Anomalous
+370,370,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'authenticating']",Anomalous
+371,371,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+372,372,"['capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'authenting and  authorizing']",Anomalous
+373,373,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+374,374,"['authenting and  authorizing', 'storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+375,375,"['authenting and  authorizing', 'Retrieving the Pointer Info', 'Authorizing access rights', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester']",Anomalous
+376,376,"['capturing information of an object id', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+377,377,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id']",Anomalous
+378,378,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+379,379,"['authenticating', 'capturing information of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+380,380,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+381,381,"['capturing information of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+382,382,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+383,383,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+384,384,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+385,385,"['capturing information of an object id', 'storing and updating  key info  of object i ds', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+386,386,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+387,387,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+388,388,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+389,389,"['authenting and  authorizing', 'Authorizing access rights', 'Sending the detailed info to the requester']",Anomalous
+390,390,"['authenticating', 'authenting and  authorizing', 'capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+391,391,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+392,392,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+393,393,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+394,394,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+395,395,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Authorizing access rights', 'authenting and  authorizing']",Anomalous
+396,396,"['Authorizing access rights', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+397,397,"['storing and updating  key info  of object i ds', 'updating the key events onto ads', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+398,398,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+399,399,"['storing and updating  key info  of object i ds', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'authenting and  authorizing']",Anomalous
+400,400,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+401,401,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+402,402,"['authenting and  authorizing', 'capturing information of an object id', 'authenticating', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'updating the key events onto ads']",Anomalous
+403,403,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+404,404,"['updating the key events onto ads', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+405,405,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'updating the key events onto ads', 'authenticating', 'Sending the detailed info to the requester']",Anomalous
+406,406,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'capturing information of an object id', 'updating the key events onto ads']",Anomalous
+407,407,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+408,408,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+409,409,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+410,410,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+411,411,"['updating the key events onto ads', 'authenting and  authorizing', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester']",Anomalous
+412,412,"['capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+413,413,"['authenticating', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+414,414,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+415,415,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+416,416,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+417,417,"['capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+418,418,"['Authorizing access rights', 'Authorizing access rights', 'Authorizing access rights', 'authenting and  authorizing', 'updating the key events onto ads', 'authenticating', 'Sending the detailed info to the requester']",Anomalous
+419,419,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+420,420,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+421,421,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+422,422,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+423,423,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+424,424,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+425,425,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+426,426,"['Sending the detailed info to the requester', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+427,427,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+428,428,"['storing and updating  key info  of object i ds', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+429,429,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+430,430,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+431,431,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+432,432,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'storing and updating  key info  of object i ds', 'authenticating', 'Authorizing access rights', 'updating the key events onto ads']",Anomalous
+433,433,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+434,434,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+435,435,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+436,436,"['capturing information of an object id', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+437,437,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+438,438,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+439,439,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenting and  authorizing']",Anomalous
+440,440,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+441,441,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+442,442,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+443,443,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+444,444,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+445,445,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+446,446,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+447,447,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'updating the key events onto ads']",Anomalous
+448,448,"['capturing information of an object id', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'updating the key events onto ads']",Anomalous
+449,449,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester', 'updating the key events onto ads', 'updating the key events onto ads']",Anomalous
+450,450,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+451,451,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+452,452,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+453,453,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+454,454,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+455,455,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+456,456,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+457,457,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+458,458,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+459,459,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+460,460,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+461,461,"['authenting and  authorizing', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'updating the key events onto ads']",Anomalous
+462,462,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Sending the detailed info to the requester']",Anomalous
+463,463,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'updating the key events onto ads']",Anomalous
+464,464,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'capturing information of an object id']",Anomalous
+465,465,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+466,466,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+467,467,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+468,468,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+469,469,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+470,470,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+471,471,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+472,472,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+473,473,"['storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+474,474,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+475,475,"['capturing information of an object id', 'authenticating', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+476,476,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+477,477,"['capturing information of an object id', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester', 'authenticating', 'updating the key events onto ads']",Anomalous
+478,478,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'updating the key events onto ads']",Anomalous
+479,479,"['authenticating', 'updating the key events onto ads', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id']",Anomalous
+480,480,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+481,481,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+482,482,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+483,483,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+484,484,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'updating the key events onto ads', 'authenticating']",Anomalous
+485,485,"['authenticating', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+486,486,"['storing and updating the detailed info of an object id', 'capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+487,487,"['authenticating', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenticating', 'updating the key events onto ads', 'Retrieving the Pointer Info']",Anomalous
+488,488,"['storing and updating the detailed info of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+489,489,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+490,490,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+491,491,"['Sending the detailed info to the requester', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenting and  authorizing', 'updating the key events onto ads']",Anomalous
+492,492,"['capturing information of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'authenticating', 'updating the key events onto ads']",Anomalous
+493,493,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+494,494,"['storing and updating the detailed info of an object id', 'capturing information of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+495,495,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+496,496,"['storing and updating  key info  of object i ds', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+497,497,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds', 'authenting and  authorizing']",Anomalous
+498,498,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+499,499,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+500,500,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+501,501,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+502,502,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Authorizing access rights']",Anomalous
+503,503,"['Sending the detailed info to the requester', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+504,504,"['Sending the detailed info to the requester', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+505,505,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+506,506,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+507,507,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+508,508,"['capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info']",Anomalous
+509,509,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'capturing information of an object id']",Anomalous
+510,510,"['authenting and  authorizing', 'capturing information of an object id', 'Sending the detailed info to the requester']",Anomalous
+511,511,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenticating', 'updating the key events onto ads']",Anomalous
+512,512,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+513,513,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+514,514,"['capturing information of an object id', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+515,515,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+516,516,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+517,517,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+518,518,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+519,519,"['capturing information of an object id', 'updating the key events onto ads', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+520,520,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenticating', 'updating the key events onto ads']",Anomalous
+521,521,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+522,522,"['capturing information of an object id', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+523,523,"['storing and updating  key info  of object i ds', 'Authorizing access rights', 'capturing information of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+524,524,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+525,525,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+526,526,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+527,527,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+528,528,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+529,529,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+530,530,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+531,531,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+532,532,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+533,533,"['Authorizing access rights', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+534,534,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+535,535,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+536,536,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+537,537,"['Sending the detailed info to the requester', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenticating']",Anomalous
+538,538,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+539,539,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+540,540,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+541,541,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+542,542,"['capturing information of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+543,543,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+544,544,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+545,545,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+546,546,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+547,547,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+548,548,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+549,549,"['authenticating', 'Authorizing access rights', 'storing and updating  key info  of object i ds', 'Retrieving the Pointer Info']",Anomalous
+550,550,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+551,551,"['Authorizing access rights', 'Retrieving the Pointer Info', 'Authorizing access rights']",Anomalous
+552,552,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+553,553,"['authenticating', 'capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+554,554,"['storing and updating  key info  of object i ds', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+555,555,"['authenticating', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+556,556,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+557,557,"['updating the key events onto ads', 'Authorizing access rights', 'Retrieving the Pointer Info', 'authenticating']",Anomalous
+558,558,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+559,559,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+560,560,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+561,561,"['authenticating', 'Authorizing access rights', 'storing and updating  key info  of object i ds', 'authenticating']",Anomalous
+562,562,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+563,563,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+564,564,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds', 'updating the key events onto ads']",Anomalous
+565,565,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+566,566,"['Authorizing access rights', 'Retrieving the Pointer Info', 'authenting and  authorizing', 'Authorizing access rights', 'updating the key events onto ads']",Anomalous
+567,567,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+568,568,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+569,569,"['Authorizing access rights', 'Retrieving the Pointer Info', 'authenting and  authorizing']",Anomalous
+570,570,"['storing and updating  key info  of object i ds', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+571,571,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+572,572,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+573,573,"['Retrieving the Pointer Info', 'authenticating', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+574,574,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+575,575,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+576,576,"['authenticating', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+577,577,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+578,578,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+579,579,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+580,580,"['updating the key events onto ads', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+581,581,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+582,582,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+583,583,"['Authorizing access rights', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester']",Anomalous
+584,584,"['Retrieving the Pointer Info', 'Retrieving the Pointer Info', 'authenticating', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+585,585,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+586,586,"['Authorizing access rights', 'updating the key events onto ads', 'Retrieving the Pointer Info', 'authenting and  authorizing']",Anomalous
+587,587,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+588,588,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+589,589,"['authenticating', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester']",Anomalous
+590,590,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+591,591,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+592,592,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+593,593,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+594,594,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+595,595,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+596,596,"['authenting and  authorizing', 'Authorizing access rights', 'authenticating', 'authenticating', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+597,597,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+598,598,"['authenticating', 'updating the key events onto ads', 'Authorizing access rights', 'storing and updating  key info  of object i ds', 'capturing information of an object id', 'Sending the detailed info to the requester']",Anomalous
+599,599,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+600,600,"['storing and updating the detailed info of an object id', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+601,601,"['authenticating', 'storing and updating  key info  of object i ds', 'authenticating']",Anomalous
+602,602,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+603,603,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+604,604,"['authenticating', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+605,605,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+606,606,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+607,607,"['storing and updating the detailed info of an object id', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+608,608,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+609,609,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+610,610,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+611,611,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+612,612,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+613,613,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+614,614,"['authenticating', 'storing and updating  key info  of object i ds', 'Retrieving the Pointer Info']",Anomalous
+615,615,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+616,616,"['authenticating', 'Authorizing access rights', 'storing and updating  key info  of object i ds']",Anomalous
+617,617,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id']",Anomalous
+618,618,"['authenticating', 'storing and updating  key info  of object i ds', 'Retrieving the Pointer Info']",Anomalous
+619,619,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+620,620,"['storing and updating  key info  of object i ds', 'authenticating', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+621,621,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+622,622,"['Sending the detailed info to the requester', 'authenticating', 'Retrieving the Pointer Info', 'storing and updating  key info  of object i ds']",Anomalous
+623,623,"['Authorizing access rights', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+624,624,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+625,625,"['authenting and  authorizing', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+626,626,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id']",Anomalous
+627,627,"['authenticating', 'Retrieving the Pointer Info', 'capturing information of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+628,628,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+629,629,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+630,630,"['Authorizing access rights', 'authenticating', 'Retrieving the Pointer Info']",Anomalous
+631,631,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+632,632,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+633,633,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+634,634,"['Authorizing access rights', 'storing and updating the detailed info of an object id', 'Retrieving the Pointer Info', 'authenting and  authorizing']",Anomalous
+635,635,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+636,636,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+637,637,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+638,638,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+639,639,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id']",Anomalous
+640,640,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id']",Anomalous
+641,641,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+642,642,"['authenticating', 'authenticating', 'storing and updating  key info  of object i ds', 'Authorizing access rights']",Anomalous
+643,643,"['authenticating', 'authenticating', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+644,644,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+645,645,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+646,646,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id']",Anomalous
+647,647,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+648,648,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+649,649,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+650,650,"['authenticating', 'capturing information of an object id', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id']",Anomalous
+651,651,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+652,652,"['authenting and  authorizing', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+653,653,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+654,654,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+655,655,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+656,656,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+657,657,"['authenticating', 'storing and updating  key info  of object i ds', 'Retrieving the Pointer Info']",Anomalous
+658,658,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+659,659,"['updating the key events onto ads', 'authenticating', 'capturing information of an object id', 'Authorizing access rights', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+660,660,"['updating the key events onto ads', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+661,661,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+662,662,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+663,663,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+664,664,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+665,665,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+666,666,"['authenting and  authorizing', 'authenticating', 'Sending the detailed info to the requester']",Anomalous
+667,667,"['Sending the detailed info to the requester', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+668,668,"['updating the key events onto ads', 'authenting and  authorizing', 'authenticating', 'Sending the detailed info to the requester']",Anomalous
+669,669,"['storing and updating the detailed info of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Retrieving the Pointer Info']",Anomalous
+670,670,"['authenting and  authorizing', 'capturing information of an object id', 'Sending the detailed info to the requester', 'Authorizing access rights']",Anomalous
+671,671,"['Retrieving the Pointer Info', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+672,672,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+673,673,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+674,674,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+675,675,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+676,676,"['updating the key events onto ads', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+677,677,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+678,678,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+679,679,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+680,680,"['Authorizing access rights', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+681,681,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds', 'capturing information of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+682,682,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+683,683,"['Sending the detailed info to the requester', 'capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+684,684,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+685,685,"['Retrieving the Pointer Info', 'updating the key events onto ads', 'authenticating', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'Authorizing access rights', 'updating the key events onto ads']",Anomalous
+686,686,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+687,687,"['storing and updating  key info  of object i ds', 'authenting and  authorizing', 'Authorizing access rights', 'Sending the detailed info to the requester']",Anomalous
+688,688,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+689,689,"['authenting and  authorizing', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester', 'updating the key events onto ads', 'authenticating']",Anomalous
+690,690,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+691,691,"['authenting and  authorizing', 'updating the key events onto ads', 'Sending the detailed info to the requester']",Anomalous
+692,692,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+693,693,"['authenting and  authorizing', 'authenticating', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenting and  authorizing', 'Authorizing access rights']",Anomalous
+694,694,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+695,695,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+696,696,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+697,697,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+698,698,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+699,699,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+700,700,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+701,701,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+702,702,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id', 'capturing information of an object id']",Anomalous
+703,703,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+704,704,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+705,705,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+706,706,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+707,707,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'capturing information of an object id']",Anomalous
+708,708,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+709,709,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+710,710,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+711,711,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+712,712,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+713,713,"['authenting and  authorizing', 'Authorizing access rights', 'Sending the detailed info to the requester']",Anomalous
+714,714,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+715,715,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+716,716,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+717,717,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+718,718,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+719,719,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+720,720,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+721,721,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+722,722,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+723,723,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+724,724,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+725,725,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+726,726,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+727,727,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+728,728,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+729,729,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+730,730,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+731,731,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+732,732,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+733,733,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+734,734,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+735,735,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+736,736,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+737,737,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenticating', 'updating the key events onto ads']",Anomalous
+738,738,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+739,739,"['capturing information of an object id', 'Authorizing access rights', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester', 'updating the key events onto ads', 'Authorizing access rights']",Anomalous
+740,740,"['authenticating', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'Authorizing access rights', 'updating the key events onto ads']",Anomalous
+741,741,"['capturing information of an object id', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+742,742,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+743,743,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+744,744,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+745,745,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+746,746,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'capturing information of an object id']",Anomalous
+747,747,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+748,748,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+749,749,"['storing and updating the detailed info of an object id', 'capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenticating']",Anomalous
+750,750,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+751,751,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'capturing information of an object id']",Anomalous
+752,752,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+753,753,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+754,754,"['capturing information of an object id', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+755,755,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+756,756,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+757,757,"['authenting and  authorizing', 'storing and updating  key info  of object i ds', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+758,758,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'updating the key events onto ads', 'capturing information of an object id']",Anomalous
+759,759,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info']",Anomalous
+760,760,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+761,761,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester', 'capturing information of an object id']",Anomalous
+762,762,"['capturing information of an object id', 'Sending the detailed info to the requester', 'authenting and  authorizing', 'storing and updating the detailed info of an object id', 'Authorizing access rights', 'updating the key events onto ads']",Anomalous
+763,763,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+764,764,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+765,765,"['capturing information of an object id', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+766,766,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Authorizing access rights']",Anomalous
+767,767,"['Authorizing access rights', 'authenting and  authorizing', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester']",Anomalous
+768,768,"['authenting and  authorizing', 'authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+769,769,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+770,770,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+771,771,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+772,772,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+773,773,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+774,774,"['capturing information of an object id', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenticating']",Anomalous
+775,775,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+776,776,"['capturing information of an object id', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'updating the key events onto ads', 'authenticating']",Anomalous
+777,777,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Authorizing access rights']",Anomalous
+778,778,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+779,779,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+780,780,"['capturing information of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+781,781,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+782,782,"['authenting and  authorizing', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester', 'updating the key events onto ads', 'Retrieving the Pointer Info', 'storing and updating  key info  of object i ds']",Anomalous
+783,783,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+784,784,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+785,785,"['authenting and  authorizing', 'Authorizing access rights', 'updating the key events onto ads', 'capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+786,786,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+787,787,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'authenticating', 'updating the key events onto ads']",Anomalous
+788,788,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+789,789,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+790,790,"['Authorizing access rights', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+791,791,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+792,792,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+793,793,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+794,794,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'updating the key events onto ads', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'Authorizing access rights']",Anomalous
+795,795,"['Sending the detailed info to the requester', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+796,796,"['capturing information of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenting and  authorizing']",Anomalous
+797,797,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+798,798,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+799,799,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+800,800,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+801,801,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'authenting and  authorizing', 'updating the key events onto ads']",Anomalous
+802,802,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+803,803,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'updating the key events onto ads']",Anomalous
+804,804,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+805,805,"['Sending the detailed info to the requester', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+806,806,"['authenting and  authorizing', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+807,807,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+808,808,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+809,809,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+810,810,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+811,811,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+812,812,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info']",Anomalous
+813,813,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+814,814,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+815,815,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+816,816,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+817,817,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+818,818,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+819,819,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+820,820,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'updating the key events onto ads', 'updating the key events onto ads']",Anomalous
+821,821,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+822,822,"['authenting and  authorizing', 'capturing information of an object id', 'Sending the detailed info to the requester', 'Authorizing access rights']",Anomalous
+823,823,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+824,824,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+825,825,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+826,826,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+827,827,"['Sending the detailed info to the requester', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+828,828,"['capturing information of an object id', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester']",Anomalous
+829,829,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+830,830,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Retrieving the Pointer Info']",Anomalous
+831,831,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+832,832,"['Authorizing access rights', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+833,833,"['updating the key events onto ads', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'Authorizing access rights', 'updating the key events onto ads']",Anomalous
+834,834,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+835,835,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+836,836,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+837,837,"['capturing information of an object id', 'Retrieving the Pointer Info', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id', 'authenting and  authorizing', 'updating the key events onto ads', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester']",Anomalous
+838,838,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+839,839,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+840,840,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+841,841,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+842,842,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+843,843,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+844,844,"['capturing information of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+845,845,"['capturing information of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+846,846,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+847,847,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+848,848,"['Retrieving the Pointer Info', 'authenticating', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'capturing information of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating  key info  of object i ds', 'capturing information of an object id']",Anomalous
+849,849,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+850,850,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+851,851,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+852,852,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+853,853,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+854,854,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+855,855,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+856,856,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+857,857,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenting and  authorizing', 'updating the key events onto ads', 'Retrieving the Pointer Info']",Anomalous
+858,858,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+859,859,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'updating the key events onto ads']",Anomalous
+860,860,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+861,861,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+862,862,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+863,863,"['capturing information of an object id', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'updating the key events onto ads']",Anomalous
+864,864,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+865,865,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+866,866,"['updating the key events onto ads', 'updating the key events onto ads', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+867,867,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+868,868,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+869,869,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+870,870,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+871,871,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+872,872,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+873,873,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+874,874,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+875,875,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+876,876,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+877,877,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+878,878,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+879,879,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id']",Anomalous
+880,880,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+881,881,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+882,882,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+883,883,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenticating']",Anomalous
+884,884,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+885,885,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+886,886,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+887,887,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+888,888,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+889,889,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+890,890,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+891,891,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+892,892,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+893,893,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+894,894,"['authenting and  authorizing', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester', 'authenticating']",Anomalous
+895,895,"['authenticating', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id']",Anomalous
+896,896,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'authenticating']",Anomalous
+897,897,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'updating the key events onto ads']",Anomalous
+898,898,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+899,899,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+900,900,"['capturing information of an object id', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+901,901,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenticating', 'updating the key events onto ads']",Anomalous
+902,902,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenting and  authorizing', 'updating the key events onto ads']",Anomalous
+903,903,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Sending the detailed info to the requester']",Anomalous
+904,904,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+905,905,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+906,906,"['capturing information of an object id', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Retrieving the Pointer Info']",Anomalous
+907,907,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+908,908,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+909,909,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+910,910,"['storing and updating the detailed info of an object id', 'capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+911,911,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+912,912,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+913,913,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+914,914,"['capturing information of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'updating the key events onto ads']",Anomalous
+915,915,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+916,916,"['Retrieving the Pointer Info', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+917,917,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+918,918,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'authenting and  authorizing']",Anomalous
+919,919,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+920,920,"['authenting and  authorizing', 'capturing information of an object id', 'Sending the detailed info to the requester', 'updating the key events onto ads', 'updating the key events onto ads']",Anomalous
+921,921,"['updating the key events onto ads', 'authenting and  authorizing', 'authenticating', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+922,922,"['Authorizing access rights', 'updating the key events onto ads', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'authenticating']",Anomalous
+923,923,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id']",Anomalous
+924,924,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+925,925,"['storing and updating  key info  of object i ds', 'Retrieving the Pointer Info', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+926,926,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+927,927,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester']",Anomalous
+928,928,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+929,929,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'capturing information of an object id']",Anomalous
+930,930,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+931,931,"['authenting and  authorizing', 'authenticating', 'Sending the detailed info to the requester']",Anomalous
+932,932,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+933,933,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+934,934,"['capturing information of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+935,935,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+936,936,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+937,937,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+938,938,"['capturing information of an object id', 'capturing information of an object id', 'authenting and  authorizing', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenticating']",Anomalous
+939,939,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+940,940,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenticating']",Anomalous
+941,941,"['authenting and  authorizing', 'storing and updating the detailed info of an object id', 'Retrieving the Pointer Info', 'capturing information of an object id', 'authenting and  authorizing', 'storing and updating the detailed info of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'Authorizing access rights', 'updating the key events onto ads']",Anomalous
+942,942,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+943,943,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+944,944,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+945,945,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+946,946,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+947,947,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+948,948,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+949,949,"['capturing information of an object id', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'updating the key events onto ads']",Anomalous
+950,950,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+951,951,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+952,952,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+953,953,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+954,954,"['capturing information of an object id', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+955,955,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+956,956,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id']",Anomalous
+957,957,"['Authorizing access rights', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+958,958,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+959,959,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+960,960,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+961,961,"['capturing information of an object id', 'updating the key events onto ads', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+962,962,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+963,963,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+964,964,"['capturing information of an object id', 'storing and updating  key info  of object i ds', 'authenting and  authorizing', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+965,965,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+966,966,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+967,967,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+968,968,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+969,969,"['updating the key events onto ads', 'Retrieving the Pointer Info', 'storing and updating  key info  of object i ds', 'updating the key events onto ads', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenting and  authorizing', 'authenticating', 'Sending the detailed info to the requester', 'capturing information of an object id']",Anomalous
+970,970,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'capturing information of an object id']",Anomalous
+971,971,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+972,972,"['authenting and  authorizing', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester']",Anomalous
+973,973,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+974,974,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+975,975,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+976,976,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+977,977,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+978,978,"['storing and updating  key info  of object i ds', 'authenting and  authorizing', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id', 'authenticating']",Anomalous
+979,979,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+980,980,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+981,981,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+982,982,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+983,983,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'Authorizing access rights']",Anomalous
+984,984,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+985,985,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+986,986,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+987,987,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+988,988,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Authorizing access rights', 'storing and updating the detailed info of an object id']",Anomalous
+989,989,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+990,990,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'updating the key events onto ads']",Anomalous
+991,991,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+992,992,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'updating the key events onto ads']",Anomalous
+993,993,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+994,994,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+995,995,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+996,996,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+997,997,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+998,998,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+999,999,"['capturing information of an object id', 'capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+1000,1000,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id']",Anomalous
+1001,1001,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1002,1002,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Retrieving the Pointer Info', 'capturing information of an object id', 'storing and updating the detailed info of an object id']",Anomalous
+1003,1003,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1004,1004,"['capturing information of an object id', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'updating the key events onto ads', 'Authorizing access rights']",Anomalous
+1005,1005,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1006,1006,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1007,1007,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1008,1008,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1009,1009,"['capturing information of an object id', 'capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'updating the key events onto ads']",Anomalous
+1010,1010,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'authenticating', 'updating the key events onto ads']",Anomalous
+1011,1011,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+1012,1012,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Sending the detailed info to the requester']",Anomalous
+1013,1013,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1014,1014,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+1015,1015,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1016,1016,"['updating the key events onto ads', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+1017,1017,"['updating the key events onto ads', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+1018,1018,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1019,1019,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1020,1020,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1021,1021,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1022,1022,"['capturing information of an object id', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+1023,1023,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1024,1024,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'Authorizing access rights', 'authenting and  authorizing']",Anomalous
+1025,1025,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1026,1026,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1027,1027,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1028,1028,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1029,1029,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1030,1030,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1031,1031,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+1032,1032,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+1033,1033,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1034,1034,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1035,1035,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'storing and updating the detailed info of an object id']",Anomalous
+1036,1036,"['updating the key events onto ads', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+1037,1037,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1038,1038,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1039,1039,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester', 'updating the key events onto ads', 'Sending the detailed info to the requester']",Anomalous
+1040,1040,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1041,1041,"['authenticating', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+1042,1042,"['authenticating', 'capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Anomalous
+1043,1043,"['capturing information of an object id', 'storing and updating the detailed info of an object id', 'updating the key events onto ads']",Normal
+1044,1044,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds', 'updating the key events onto ads', 'Authorizing access rights', 'authenticating', 'capturing information of an object id', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester']",Anomalous
+1045,1045,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1046,1046,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1047,1047,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1048,1048,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1049,1049,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1050,1050,"['Authorizing access rights', 'authenticating', 'updating the key events onto ads', 'Retrieving the Pointer Info']",Anomalous
+1051,1051,"['storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds', 'authenticating', 'authenting and  authorizing', 'storing and updating  key info  of object i ds']",Anomalous
+1052,1052,"['authenticating', 'storing and updating  key info  of object i ds', 'authenticating']",Anomalous
+1053,1053,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1054,1054,"['capturing information of an object id', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+1055,1055,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1056,1056,"['Authorizing access rights', 'Retrieving the Pointer Info', 'Retrieving the Pointer Info']",Anomalous
+1057,1057,"['Authorizing access rights', 'Retrieving the Pointer Info', 'updating the key events onto ads']",Anomalous
+1058,1058,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1059,1059,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1060,1060,"['authenticating', 'storing and updating  key info  of object i ds', 'authenticating']",Anomalous
+1061,1061,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1062,1062,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1063,1063,"['Sending the detailed info to the requester', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1064,1064,"['Authorizing access rights', 'authenting and  authorizing', 'Retrieving the Pointer Info']",Anomalous
+1065,1065,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1066,1066,"['Authorizing access rights', 'Retrieving the Pointer Info', 'authenting and  authorizing', 'updating the key events onto ads']",Anomalous
+1067,1067,"['Authorizing access rights', 'Retrieving the Pointer Info', 'Retrieving the Pointer Info']",Anomalous
+1068,1068,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1069,1069,"['capturing information of an object id', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1070,1070,"['Authorizing access rights', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1071,1071,"['storing and updating  key info  of object i ds', 'authenticating', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id']",Anomalous
+1072,1072,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1073,1073,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1074,1074,"['authenticating', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+1075,1075,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1076,1076,"['capturing information of an object id', 'authenticating', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds', 'authenticating']",Anomalous
+1077,1077,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1078,1078,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1079,1079,"['Authorizing access rights', 'storing and updating  key info  of object i ds', 'Retrieving the Pointer Info', 'Retrieving the Pointer Info']",Anomalous
+1080,1080,"['Authorizing access rights', 'Retrieving the Pointer Info', 'authenticating', 'storing and updating the detailed info of an object id']",Anomalous
+1081,1081,"['Authorizing access rights', 'authenting and  authorizing', 'Retrieving the Pointer Info']",Anomalous
+1082,1082,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1083,1083,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1084,1084,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1085,1085,"['authenticating', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester']",Anomalous
+1086,1086,"['Retrieving the Pointer Info', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1087,1087,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1088,1088,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1089,1089,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1090,1090,"['capturing information of an object id', 'storing and updating  key info  of object i ds', 'capturing information of an object id', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1091,1091,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1092,1092,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1093,1093,"['updating the key events onto ads', 'authenticating', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+1094,1094,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1095,1095,"['capturing information of an object id', 'capturing information of an object id', 'storing and updating  key info  of object i ds', 'Authorizing access rights', 'authenticating', 'Authorizing access rights', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds']",Anomalous
+1096,1096,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1097,1097,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1098,1098,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1099,1099,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1100,1100,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1101,1101,"['Authorizing access rights', 'storing and updating the detailed info of an object id', 'Retrieving the Pointer Info', 'Authorizing access rights']",Anomalous
+1102,1102,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1103,1103,"['Retrieving the Pointer Info', 'Retrieving the Pointer Info', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+1104,1104,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1105,1105,"['Authorizing access rights', 'Retrieving the Pointer Info', 'Authorizing access rights']",Anomalous
+1106,1106,"['authenting and  authorizing', 'Authorizing access rights', 'Retrieving the Pointer Info', 'Retrieving the Pointer Info']",Anomalous
+1107,1107,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1108,1108,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1109,1109,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1110,1110,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1111,1111,"['storing and updating  key info  of object i ds', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1112,1112,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds']",Anomalous
+1113,1113,"['authenticating', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester']",Anomalous
+1114,1114,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1115,1115,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1116,1116,"['storing and updating  key info  of object i ds', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1117,1117,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1118,1118,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1119,1119,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1120,1120,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1121,1121,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1122,1122,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1123,1123,"['authenticating', 'authenting and  authorizing', 'storing and updating  key info  of object i ds']",Anomalous
+1124,1124,"['capturing information of an object id', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1125,1125,"['authenticating', 'storing and updating  key info  of object i ds', 'Authorizing access rights', 'storing and updating the detailed info of an object id', 'storing and updating the detailed info of an object id']",Anomalous
+1126,1126,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1127,1127,"['authenticating', 'storing and updating  key info  of object i ds', 'authenticating']",Anomalous
+1128,1128,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1129,1129,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1130,1130,"['updating the key events onto ads', 'Authorizing access rights', 'capturing information of an object id', 'Retrieving the Pointer Info']",Anomalous
+1131,1131,"['Authorizing access rights', 'capturing information of an object id', 'Retrieving the Pointer Info']",Anomalous
+1132,1132,"['authenticating', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+1133,1133,"['storing and updating the detailed info of an object id', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+1134,1134,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1135,1135,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1136,1136,"['authenticating', 'capturing information of an object id', 'authenting and  authorizing', 'storing and updating  key info  of object i ds']",Anomalous
+1137,1137,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1138,1138,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1139,1139,"['Retrieving the Pointer Info', 'authenticating', 'Authorizing access rights', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds']",Anomalous
+1140,1140,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1141,1141,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1142,1142,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1143,1143,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1144,1144,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1145,1145,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1146,1146,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1147,1147,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds']",Anomalous
+1148,1148,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1149,1149,"['authenticating', 'capturing information of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+1150,1150,"['authenticating', 'storing and updating  key info  of object i ds', 'Authorizing access rights']",Anomalous
+1151,1151,"['authenticating', 'storing and updating the detailed info of an object id', 'capturing information of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+1152,1152,"['Sending the detailed info to the requester', 'authenticating', 'storing and updating  key info  of object i ds', 'updating the key events onto ads']",Anomalous
+1153,1153,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1154,1154,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1155,1155,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1156,1156,"['storing and updating the detailed info of an object id', 'authenticating', 'storing and updating  key info  of object i ds', 'Retrieving the Pointer Info', 'storing and updating the detailed info of an object id']",Anomalous
+1157,1157,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1158,1158,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1159,1159,"['authenticating', 'updating the key events onto ads', 'storing and updating  key info  of object i ds']",Anomalous
+1160,1160,"['storing and updating the detailed info of an object id', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1161,1161,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1162,1162,"['storing and updating  key info  of object i ds', 'updating the key events onto ads', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1163,1163,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1164,1164,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1165,1165,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1166,1166,"['Authorizing access rights', 'authenticating', 'Retrieving the Pointer Info']",Anomalous
+1167,1167,"['Authorizing access rights', 'Retrieving the Pointer Info', 'Authorizing access rights']",Anomalous
+1168,1168,"['authenticating', 'Authorizing access rights', 'Retrieving the Pointer Info']",Anomalous
+1169,1169,"['authenticating', 'Authorizing access rights', 'updating the key events onto ads', 'Retrieving the Pointer Info', 'updating the key events onto ads']",Anomalous
+1170,1170,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1171,1171,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1172,1172,"['Authorizing access rights', 'Retrieving the Pointer Info']",Normal
+1173,1173,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds']",Anomalous
+1174,1174,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1175,1175,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1176,1176,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1177,1177,"['Authorizing access rights', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1178,1178,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1179,1179,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating the detailed info of an object id']",Anomalous
+1180,1180,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1181,1181,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1182,1182,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1183,1183,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1184,1184,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1185,1185,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1186,1186,"['authenticating', 'Authorizing access rights', 'storing and updating  key info  of object i ds']",Anomalous
+1187,1187,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1188,1188,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1189,1189,"['authenticating', 'authenticating', 'storing and updating  key info  of object i ds', 'Authorizing access rights']",Anomalous
+1190,1190,"['authenticating', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1191,1191,"['authenticating', 'storing and updating  key info  of object i ds', 'authenting and  authorizing']",Anomalous
+1192,1192,"['authenticating', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester', 'authenting and  authorizing']",Anomalous
+1193,1193,"['authenticating', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1194,1194,"['storing and updating  key info  of object i ds', 'authenticating', 'storing and updating  key info  of object i ds']",Anomalous
+1195,1195,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1196,1196,"['authenticating', 'Authorizing access rights', 'storing and updating  key info  of object i ds']",Anomalous
+1197,1197,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1198,1198,"['authenticating', 'storing and updating the detailed info of an object id', 'storing and updating  key info  of object i ds']",Anomalous
+1199,1199,"['authenticating', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+1200,1200,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1201,1201,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1202,1202,"['authenticating', 'storing and updating  key info  of object i ds', 'capturing information of an object id', 'updating the key events onto ads']",Anomalous
+1203,1203,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1204,1204,"['storing and updating  key info  of object i ds', 'authenticating', 'updating the key events onto ads', 'updating the key events onto ads', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester']",Anomalous
+1205,1205,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1206,1206,"['authenticating', 'storing and updating  key info  of object i ds', 'authenting and  authorizing']",Anomalous
+1207,1207,"['authenticating', 'storing and updating  key info  of object i ds']",Normal
+1208,1208,"['authenticating', 'storing and updating  key info  of object i ds', 'storing and updating  key info  of object i ds']",Anomalous
+1209,1209,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1210,1210,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1211,1211,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1212,1212,"['Sending the detailed info to the requester', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+1213,1213,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+1214,1214,"['Sending the detailed info to the requester', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1215,1215,"['capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1216,1216,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1217,1217,"['authenting and  authorizing', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester']",Anomalous
+1218,1218,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id']",Anomalous
+1219,1219,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1220,1220,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds', 'authenting and  authorizing']",Anomalous
+1221,1221,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1222,1222,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1223,1223,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+1224,1224,"['Retrieving the Pointer Info', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1225,1225,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1226,1226,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'authenticating']",Anomalous
+1227,1227,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'authenting and  authorizing']",Anomalous
+1228,1228,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1229,1229,"['Retrieving the Pointer Info', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1230,1230,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1231,1231,"['Authorizing access rights', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1232,1232,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id']",Anomalous
+1233,1233,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+1234,1234,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1235,1235,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1236,1236,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1237,1237,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+1238,1238,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1239,1239,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1240,1240,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1241,1241,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1242,1242,"['Retrieving the Pointer Info', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds', 'Retrieving the Pointer Info']",Anomalous
+1243,1243,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1244,1244,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1245,1245,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1246,1246,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1247,1247,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1248,1248,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1249,1249,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+1250,1250,"['authenting and  authorizing', 'Authorizing access rights', 'Sending the detailed info to the requester']",Anomalous
+1251,1251,"['capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1252,1252,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1253,1253,"['storing and updating  key info  of object i ds', 'Retrieving the Pointer Info', 'capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1254,1254,"['storing and updating  key info  of object i ds', 'authenting and  authorizing', 'authenting and  authorizing', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+1255,1255,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1256,1256,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+1257,1257,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1258,1258,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1259,1259,"['Authorizing access rights', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1260,1260,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1261,1261,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1262,1262,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1263,1263,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info']",Anomalous
+1264,1264,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1265,1265,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1266,1266,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester', 'Authorizing access rights', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester', 'Authorizing access rights', 'Authorizing access rights']",Anomalous
+1267,1267,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1268,1268,"['storing and updating the detailed info of an object id', 'authenticating', 'authenting and  authorizing', 'Authorizing access rights', 'authenticating', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester']",Anomalous
+1269,1269,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1270,1270,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1271,1271,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1272,1272,"['Retrieving the Pointer Info', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1273,1273,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1274,1274,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1275,1275,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1276,1276,"['authenting and  authorizing', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester']",Anomalous
+1277,1277,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1278,1278,"['Sending the detailed info to the requester', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1279,1279,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1280,1280,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1281,1281,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1282,1282,"['storing and updating the detailed info of an object id', 'authenticating', 'Sending the detailed info to the requester', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1283,1283,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1284,1284,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'authenting and  authorizing']",Anomalous
+1285,1285,"['Authorizing access rights', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1286,1286,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1287,1287,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info']",Anomalous
+1288,1288,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1289,1289,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info']",Anomalous
+1290,1290,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1291,1291,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1292,1292,"['authenting and  authorizing', 'capturing information of an object id', 'Sending the detailed info to the requester']",Anomalous
+1293,1293,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1294,1294,"['authenting and  authorizing', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+1295,1295,"['Authorizing access rights', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1296,1296,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1297,1297,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1298,1298,"['storing and updating  key info  of object i ds', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1299,1299,"['authenticating', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1300,1300,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1301,1301,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1302,1302,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1303,1303,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1304,1304,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1305,1305,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1306,1306,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id']",Anomalous
+1307,1307,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1308,1308,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1309,1309,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1310,1310,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1311,1311,"['Sending the detailed info to the requester', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1312,1312,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1313,1313,"['authenting and  authorizing', 'authenticating', 'Sending the detailed info to the requester']",Anomalous
+1314,1314,"['authenting and  authorizing', 'storing and updating the detailed info of an object id', 'updating the key events onto ads', 'authenting and  authorizing', 'Authorizing access rights', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id']",Anomalous
+1315,1315,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1316,1316,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1317,1317,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1318,1318,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1319,1319,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1320,1320,"['authenting and  authorizing', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1321,1321,"['Retrieving the Pointer Info', 'updating the key events onto ads', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+1322,1322,"['authenting and  authorizing', 'updating the key events onto ads', 'Sending the detailed info to the requester']",Anomalous
+1323,1323,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1324,1324,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1325,1325,"['capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1326,1326,"['authenticating', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id']",Anomalous
+1327,1327,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1328,1328,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1329,1329,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1330,1330,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1331,1331,"['authenting and  authorizing', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester']",Anomalous
+1332,1332,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1333,1333,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1334,1334,"['updating the key events onto ads', 'Sending the detailed info to the requester', 'authenticating', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1335,1335,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1336,1336,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1337,1337,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1338,1338,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1339,1339,"['Retrieving the Pointer Info', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'authenticating']",Anomalous
+1340,1340,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1341,1341,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1342,1342,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1343,1343,"['authenting and  authorizing', 'authenticating', 'Sending the detailed info to the requester']",Anomalous
+1344,1344,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1345,1345,"['storing and updating the detailed info of an object id', 'Authorizing access rights', 'updating the key events onto ads', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating  key info  of object i ds']",Anomalous
+1346,1346,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1347,1347,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1348,1348,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1349,1349,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1350,1350,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1351,1351,"['authenting and  authorizing', 'authenting and  authorizing', 'Retrieving the Pointer Info', 'Sending the detailed info to the requester']",Anomalous
+1352,1352,"['Sending the detailed info to the requester', 'authenticating', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1353,1353,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1354,1354,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1355,1355,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+1356,1356,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1357,1357,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1358,1358,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1359,1359,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1360,1360,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'updating the key events onto ads']",Anomalous
+1361,1361,"['authenting and  authorizing', 'updating the key events onto ads', 'Sending the detailed info to the requester', 'authenticating']",Anomalous
+1362,1362,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1363,1363,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1364,1364,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1365,1365,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1366,1366,"['authenting and  authorizing', 'updating the key events onto ads', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+1367,1367,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+1368,1368,"['storing and updating the detailed info of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1369,1369,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1370,1370,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1371,1371,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1372,1372,"['authenting and  authorizing', 'capturing information of an object id', 'Sending the detailed info to the requester']",Anomalous
+1373,1373,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1374,1374,"['authenting and  authorizing', 'capturing information of an object id', 'Sending the detailed info to the requester']",Anomalous
+1375,1375,"['authenting and  authorizing', 'storing and updating the detailed info of an object id', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+1376,1376,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1377,1377,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1378,1378,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1379,1379,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1380,1380,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1381,1381,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1382,1382,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1383,1383,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1384,1384,"['Sending the detailed info to the requester', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'Sending the detailed info to the requester']",Anomalous
+1385,1385,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1386,1386,"['updating the key events onto ads', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1387,1387,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1388,1388,"['capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1389,1389,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1390,1390,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1391,1391,"['capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1392,1392,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1393,1393,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1394,1394,"['storing and updating  key info  of object i ds', 'capturing information of an object id', 'authenting and  authorizing', 'Sending the detailed info to the requester', 'capturing information of an object id', 'capturing information of an object id']",Anomalous
+1395,1395,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info']",Anomalous
+1396,1396,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1397,1397,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1398,1398,"['authenting and  authorizing', 'storing and updating  key info  of object i ds', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info']",Anomalous
+1399,1399,"['authenting and  authorizing', 'updating the key events onto ads', 'Sending the detailed info to the requester', 'Retrieving the Pointer Info']",Anomalous
+1400,1400,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'Authorizing access rights', 'authenting and  authorizing']",Anomalous
+1401,1401,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1402,1402,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1403,1403,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'authenticating', 'updating the key events onto ads']",Anomalous
+1404,1404,"['Authorizing access rights', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1405,1405,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1406,1406,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1407,1407,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1408,1408,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1409,1409,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1410,1410,"['updating the key events onto ads', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1411,1411,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1412,1412,"['authenting and  authorizing', 'Sending the detailed info to the requester', 'storing and updating the detailed info of an object id']",Anomalous
+1413,1413,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1414,1414,"['authenticating', 'authenting and  authorizing', 'Sending the detailed info to the requester']",Anomalous
+1415,1415,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1416,1416,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1417,1417,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
+1418,1418,"['authenting and  authorizing', 'Sending the detailed info to the requester']",Normal
