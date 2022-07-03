@@ -1,7 +1,13 @@
 # Master thesis
 
-To do description
+The main idea is the implemantation of a framework that uses semantic and deep learning algorithms to detect anomalies in event logs. This framework includes:
+- Both synthetic and real-world event logs 
+- Word2vec and act2vec as feature extraction
+- LSTM-autoencoder as deep learning algorithm
 
+The performace of LSTM-autoencoder is compared to three ML algorithms LOF, OSVM, and SVM
+
+In the end, an approach for anomaly classification is implemented.
 ## Requirements
 
 - Python 3 [Link](https://www.python.org/downloads/)
